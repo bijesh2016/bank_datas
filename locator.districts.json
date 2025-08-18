@@ -1,0 +1,693 @@
+[{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bde"
+  },
+  "name": "Taplejung",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bdf"
+  },
+  "name": "Sankhuwasabha",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be0"
+  },
+  "name": "Solukhumbu",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be1"
+  },
+  "name": "Okhaldhunga",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be2"
+  },
+  "name": "Khotang",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be3"
+  },
+  "name": "Bhojpur",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be4"
+  },
+  "name": "Dhankuta",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be5"
+  },
+  "name": "Terhathum",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be6"
+  },
+  "name": "Panchthar",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be7"
+  },
+  "name": "Ilam",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be8"
+  },
+  "name": "Jhapa",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4be9"
+  },
+  "name": "Morang",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bea"
+  },
+  "name": "Sunsari",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4beb"
+  },
+  "name": "Udayapur",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bec"
+  },
+  "name": "Saptari",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bed"
+  },
+  "name": "Siraha",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bee"
+  },
+  "name": "Dhanusa",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bef"
+  },
+  "name": "Mahottari",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf0"
+  },
+  "name": "Sarlahi",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf1"
+  },
+  "name": "Rautahat",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf2"
+  },
+  "name": "Bara",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf3"
+  },
+  "name": "Parsa",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf4"
+  },
+  "name": "Dolakha",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf5"
+  },
+  "name": "Sindhupalchok",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf6"
+  },
+  "name": "Rasuwa",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf7"
+  },
+  "name": "Dhading",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf8"
+  },
+  "name": "Nuwakot",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bf9"
+  },
+  "name": "Kathmandu",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bfa"
+  },
+  "name": "Bhaktapur",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bfb"
+  },
+  "name": "Lalitpur",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bfc"
+  },
+  "name": "Kavrepalanchok",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bfd"
+  },
+  "name": "Ramechhap",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bfe"
+  },
+  "name": "Sindhuli",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4bff"
+  },
+  "name": "Makwanpur",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c00"
+  },
+  "name": "Chitawan",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c01"
+  },
+  "name": "Gorkha",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c02"
+  },
+  "name": "Manang",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c03"
+  },
+  "name": "Mustang",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c04"
+  },
+  "name": "Myagdi",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c05"
+  },
+  "name": "Kaski",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c06"
+  },
+  "name": "Lamjung",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c07"
+  },
+  "name": "Tanahu",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c08"
+  },
+  "name": "Nawalparasi East",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c09"
+  },
+  "name": "Syangja",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c0a"
+  },
+  "name": "Parbat",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c0b"
+  },
+  "name": "Baglung",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c0c"
+  },
+  "name": "Rukum East",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c0d"
+  },
+  "name": "Rolpa",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c0e"
+  },
+  "name": "Pyuthan",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c0f"
+  },
+  "name": "Gulmi",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c10"
+  },
+  "name": "Arghakhanchi",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c11"
+  },
+  "name": "Palpa",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c12"
+  },
+  "name": "Nawalparasi West",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c13"
+  },
+  "name": "Rupandehi",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c14"
+  },
+  "name": "Kapilbastu",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c15"
+  },
+  "name": "Dang",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c16"
+  },
+  "name": "Banke",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c17"
+  },
+  "name": "Bardiya",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c18"
+  },
+  "name": "Dolpa",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c19"
+  },
+  "name": "Mugu",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c1a"
+  },
+  "name": "Humla",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c1b"
+  },
+  "name": "Jumla",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c1c"
+  },
+  "name": "Kalikot",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c1d"
+  },
+  "name": "Dailekh",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c1e"
+  },
+  "name": "Jajarkot",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c1f"
+  },
+  "name": "Rukum West",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c20"
+  },
+  "name": "Salyan",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c21"
+  },
+  "name": "Surkhet",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c22"
+  },
+  "name": "Bajura",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c23"
+  },
+  "name": "Bajhang",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c24"
+  },
+  "name": "Darchula",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c25"
+  },
+  "name": "Baitadi",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c26"
+  },
+  "name": "Dadeldhura",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c27"
+  },
+  "name": "Doti",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c28"
+  },
+  "name": "Achham",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c29"
+  },
+  "name": "Kailali",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ba8099fdd3150d6c4c2a"
+  },
+  "name": "Kanchanpur",
+  "province": {
+    "$oid": "6874dd29a54e11ddb86c4ec7"
+  }
+}]

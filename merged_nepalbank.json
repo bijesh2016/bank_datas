@@ -1,0 +1,2430 @@
+[
+  {
+    "s_no": "1",
+    "branch_name": "Inaruwa Branch",
+    "manager": "Ramesh Karki Mobile : 9852090311",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "address": "Inaruwa Municipality inaruwa@nepalbank.com.np 025590185",
+    "coordinates": {
+      "latitude": 26.600746,
+      "longitude": 87.154873
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "2",
+    "branch_name": "Aarungkhola",
+    "manager": "Subash Dahal Mobile : 9857087165",
+    "province": "Gandaki Province",
+    "district": "Nawalpur",
+    "address": "Aarungkhola Bazar , Nawalpur aarungkhola@nepalbank.com.np 061-555007, 555008",
+    "coordinates": {
+      "latitude": 27.6147045,
+      "longitude": 83.952953
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "3",
+    "branch_name": "Aathrai",
+    "manager": "Kamala Kandel Mobile : 9852651140",
+    "province": "Koshi Province",
+    "district": "Terhathum",
+    "address": "Aathrai, Terhathum aathrai@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "4",
+    "branch_name": "Adarshanagar",
+    "manager": "Pradip Baral Mobile : 9855021859",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "address": "Adarshanagar, Parsa adarshanagar@nepalbank.com.np 051-591051, 591046, 591230",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "5",
+    "branch_name": "Amarsinghchowk",
+    "manager": "Anil Shrestha Mobile : 9856080199",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "address": "Pokhara, Kaski amarsinghchowk@nepalbank.com.np 061582665\\582675",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "6",
+    "branch_name": "Attariya",
+    "manager": "Bhojraj Joshi Mobile : 9858477639",
+    "province": "Sudurpashchim Province",
+    "district": "Kailali",
+    "address": "Attariya Bazar, Godavari Nagarpalika Ward No. 2 attariya@nepalbank.com.np 091550980",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "7",
+    "branch_name": "Bagar",
+    "manager": "Binod Sapkota Mobile : 9856027331",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "address": "Bhimkali Patan Bagar, Kaski bagar@nepalbank.com.np 061-570354,061580648",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "8",
+    "branch_name": "Bagchaur",
+    "manager": "Laxman  Thapa Mobile : 9857844093",
+    "province": "Karnali Province",
+    "district": "Salyan",
+    "address": "Bagchaur, Salyan bagchaur@nepalbank.com.np 088-412093",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "9",
+    "branch_name": "Baglung",
+    "manager": "Krishna Bahadur Kunwar Mobile : 9857620155",
+    "province": "Gandaki Province",
+    "district": "Baglung",
+    "address": "Shivadhara Chowk, Baglung baglung@nepalbank.com.np 068-520295, 520155, 521182",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "10",
+    "branch_name": "Balaju Industrial Estate",
+    "manager": "Krishna Prasad Pokhrel Mobile : 9851019560",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Balaju, Kathmandu bie@nepalbank.com.np 01-4350259, 4362017",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "11",
+    "branch_name": "Banepa",
+    "manager": "Sajan Kasalwat Mobile : 9851014079",
+    "province": "Bagmati Province",
+    "district": "Kavrepalanchok",
+    "address": "Banepa banepa@nepalbank.com.np 011-662303, 661122",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "12",
+    "branch_name": "Baneshwor",
+    "manager": "BIMUN LAL SHRESTHA Mobile : 9851232547",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Baneshwor, Kathmandu baneshwor@nepalbank.com.np 01-4792683",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "13",
+    "branch_name": "Banganga",
+    "manager": "Chandani Tiwari Mobile : 9857088298",
+    "province": "Lumbini Province",
+    "district": "Kapilvastu",
+    "address": "banganga@nepalbank.com.np 076-550387",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "14",
+    "branch_name": "Barahthawa",
+    "manager": "Roshan  Neupane Mobile : 9854035710",
+    "province": "Madhesh Province",
+    "district": "Sarlahi",
+    "address": "Barahathawa , Sarlahi barahathawa@nepalbank.com.np 046-540010, 540312",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "15",
+    "branch_name": "Bardibas",
+    "manager": "Krishna Prasad Paudel Mobile : 9854020254",
+    "province": "Madhesh Province",
+    "district": "Mahottari",
+    "address": "Bardibas, Mahottari bardibas@nepalbank.com.np 044-550758, 550763",
+    "coordinates": {
+      "latitude": 27.042928555509,
+      "longitude": 85.868852973974
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "16",
+    "branch_name": "Basantapur",
+    "manager": "Manoj Tamang Mobile : 9852026222",
+    "province": "Koshi Province",
+    "district": "Terhathum",
+    "address": "Basantapur, Laliguransh Nagarpalika Ward No. 2 basantapur@nepalbank.com.np 026402109",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "17",
+    "branch_name": "Battisputali",
+    "manager": "Bhim Narayan Dhungana Mobile : 9851336656",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Old Baneshwor, Kathmandu Metropolitan battisputali@nepalbank.com.np 01-5911628",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "18",
+    "branch_name": "Bayalbas",
+    "manager": "Ramesh Kumar Raut Mobile : 9854037109",
+    "province": "Madhesh Province",
+    "district": "Sarlahi",
+    "address": "Bayalbas, Sarlahi bayalbas@nepalbank.com.np 046-575135",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "19",
+    "branch_name": "Bazaradda",
+    "manager": "Krishna Bahadur Nepal Mobile : 9852023011",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "address": "Bazar Adda Chowk,Morang bazaradda@nepalbank.com.np 021-590334/590332",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "20",
+    "branch_name": "Besishahar",
+    "manager": "Bigyan  Paudel Mobile : 9856028510",
+    "province": "Gandaki Province",
+    "district": "Lamjung",
+    "address": "Sherachowk, Beshisahar besishahar@nepalbank.com.np 066-520785",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "21",
+    "branch_name": "Bhadrapur",
+    "manager": "Pramod Nayak Mobile : 9852671330",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "address": "Bhadrapur,Jhapa bhadrapur@nepalbank.com.np 023-523045, 523194",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "22",
+    "branch_name": "Bhaisepati",
+    "manager": "Sabina Thapa Mobile : 9851273003",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "bhaisepati@nepalbank.com.np 01-5905375, 5901881",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "23",
+    "branch_name": "Bhaktapur",
+    "manager": "Sunil Thusa Mobile : 9851014093",
+    "province": "Bagmati Province",
+    "district": "Bhaktapur",
+    "address": "Bhaktapur bhaktapur@nepalbank.com.np 01-6620096",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "24",
+    "branch_name": "Bhandara",
+    "manager": "Sudip  Khatiwada Mobile : 9855083197",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "address": "Bhandara, Chitwan bhandara@nepalbank.com.np 056-550470",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "25",
+    "branch_name": "Bhawanipur",
+    "manager": "Saroj Niroula Mobile : 9854035540",
+    "province": "Madhesh Province",
+    "district": "Sarlahi",
+    "address": "Bhawanipur, Sarlahi bhawanipur@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "26",
+    "branch_name": "Bhedasing",
+    "manager": "Chandra Bahadur Shrestha Mobile : 9851014311",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Bhedasing, Kathmandu bhedasingh@nepalbank.com.np 01-5321874, 5328569",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "27",
+    "branch_name": "Bhingri",
+    "manager": "Dinesh Kumar Basnet Mobile : 9857845183",
+    "province": "Lumbini Province",
+    "district": "Pyuthan",
+    "address": "Sworgadwari 4, Bhingri, Pyuthan bhingri@nepalbank.com.np 086-400183",
+    "coordinates": {
+      "latitude": 28.14358,
+      "longitude": 82.71411
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "28",
+    "branch_name": "Bhojpur",
+    "manager": "Lila Mani Chapagain Mobile : 9852052532",
+    "province": "Koshi Province",
+    "district": "Bhojpur",
+    "address": "Bhojpur bhojpur@nepalbank.com.np 029-420010",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "29",
+    "branch_name": "Bijuwar",
+    "manager": "Padma Yogi Mobile : 9857845222",
+    "province": "Lumbini Province",
+    "district": "Pyuthan",
+    "address": "Bijuwar Pyuthan bijuwar@nepalbank.com.np 086-460699",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "30",
+    "branch_name": "Biratchowk",
+    "manager": "Shanjaya Shahu Mobile : 9852077300",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "address": "Biratchowk, Morang biratchowk@nepalbank.com.np 021-545843",
+    "coordinates": {
+      "latitude": 26.669407183621,
+      "longitude": 87.381181216143
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "31",
+    "branch_name": "Biratnagar City Office",
+    "manager": "Rashmi Timsina Mobile : 9852067925",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "address": "C.O. Biratnagar,Morang biratnagarco@nepalbank.com.np 021-515442, 524366",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "32",
+    "branch_name": "Birauta",
+    "manager": "Amrit Bahadur Darjee Mobile : 9856088255",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "address": "Birauta Chowk , Kaski birauta@nepalbank.com.np 061-468070",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "33",
+    "branch_name": "Birendranagar",
+    "manager": "Durga Prasad Ghimire Mobile : 9858050366",
+    "province": "Karnali Province",
+    "district": "Surkhet",
+    "address": "Birendranagar, Surkhet birendranagar@nepalbank.com.np 083-520264",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "34",
+    "branch_name": "Birgunj City Office",
+    "manager": "Sangeeta Pokharel Mobile : 9855025700",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "address": "C.O.Birgunj, Parsa birgunjco@nepalbank.com.np 051-522234,522600",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "35",
+    "branch_name": "Birtamode",
+    "manager": "Prabesh Adhikari Mobile : 9852672819",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "address": "Birtamode,Jhapa birtamode@nepalbank.com.np 023-531077, 530523",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "36",
+    "branch_name": "Budhabare",
+    "manager": "Bhanu Bhakta Bhandari Mobile : 9852689189",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "address": "Budhabare,Jhapa budhabare@nepalbank.com.np 023-555212",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "37",
+    "branch_name": "Burtibang",
+    "manager": "Narayan Prasad Kandel Mobile : 9857621155",
+    "province": "Gandaki Province",
+    "district": "Baglung",
+    "address": "Burtiwang  Bazar, Baglung burtibang@nepalbank.com.np 068-410018",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "38",
+    "branch_name": "Chabahil",
+    "manager": "Sunil Ghimire Mobile : 9851019727",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Chabahil, Kathmandu chabahil@nepalbank.com.np 01-4566332,4566976",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "39",
+    "branch_name": "Chakraghatti",
+    "manager": "Chandra Mani Adhikari Mobile : 9852059721",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "address": "Chakraghatti, Sunsari chakraghatti@nepalbank.com.np 025-551127",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "40",
+    "branch_name": "Chame Manang",
+    "manager": "Ram Chandra Pangyani Mobile : 9856028769",
+    "province": "Gandaki Province",
+    "district": "Manang",
+    "address": "Tadho Line Chhame Manang, Manang chamemanang@nepalbank.com.np 066-440155",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "41",
+    "branch_name": "Chandranigahapur",
+    "manager": "Sagar Malla Mobile : 9855040179",
+    "province": "Madhesh Province",
+    "district": "Rautahat",
+    "address": "Chandranigahapur, Rautahat chandranigahapur@nepalbank.com.np 055-540712",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "42",
+    "branch_name": "Chandrauta",
+    "manager": "Surya Raj Gautam Mobile : 9857029635",
+    "province": "Lumbini Province",
+    "district": "Kapilvastu",
+    "address": "Chandrauta , Kapilvastu chandrauta@nepalbank.com.np 076-540394",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "43",
+    "branch_name": "Chapagaun",
+    "manager": "Aashutosh Neupane Mobile : 9851235038",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "Chapagaun, Lalitpur chapagaun@nepalbank.com.np 01-5570514",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "44",
+    "branch_name": "Charikot",
+    "manager": "Amrit Adhikari Mobile : 9854045755",
+    "province": "Bagmati Province",
+    "district": "Dholkha",
+    "address": "Charikot, Dolakha charikot@nepalbank.com.np 049-421155, 421855",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "45",
+    "branch_name": "Chauraha",
+    "manager": "Krishna Bahadur KC Mobile : 9857056129",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "address": "Butwal chauraha@nepalbank.com.np 071-591092, 591041",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "46",
+    "branch_name": "Chaurjahari",
+    "manager": "Amit Tiwari Mobile : 9858054150",
+    "province": "Karnali Province",
+    "district": "Western Rukum District",
+    "address": "Chaurjahari, Western Rukum chaurjahari@nepalbank.com.np 088401150",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "47",
+    "branch_name": "Chautara",
+    "manager": "Anil Mijar Mobile : 9851010607",
+    "province": "Bagmati Province",
+    "district": "Sindhupalchok",
+    "address": "Chautara, Sindhupalchok chautara@nepalbank.com.np 011-620105",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "48",
+    "branch_name": "Chhahara",
+    "manager": "Kapil Raj Gyawali Mobile : 9857088260",
+    "province": "Lumbini Province",
+    "district": "Palpa",
+    "address": "chhahara@nepalbank.com.np 075-620060",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "49",
+    "branch_name": "Chhetrapati",
+    "manager": "Geha Nath  Koirala Mobile : 9851019569",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Chhetrapati, Kathmandu chhetrapati@nepalbank.com.np 01-4263929, 4254030",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "50",
+    "branch_name": "Chitlang",
+    "manager": "Roshan Tiwari Mobile : 9851360162",
+    "province": "Bagmati Province",
+    "district": "Makwanpur",
+    "address": "Thaha Municipality, Chitlang chitlang@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "51",
+    "branch_name": "Chormara Branch",
+    "manager": "Himal Giri Mobile : 9857087285",
+    "province": "Gandaki Province",
+    "district": "Nawalpur",
+    "address": "Madhyabindu - 7 Chormara chormara@nepalbank.com.np 078410148",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "52",
+    "branch_name": "Dadeldhura",
+    "manager": "Dinesh Raj Joshi Mobile : 9858751782",
+    "province": "Sudurpashchim Province",
+    "district": "Dadeldhura",
+    "address": "Tuphandada,Dadeldhura dadeldhura@nepalbank.com.np 096-410250",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "53",
+    "branch_name": "Dailekh",
+    "manager": "Devendra Bahadur Thapa Mobile : 9858038050",
+    "province": "Karnali Province",
+    "district": "Dailekh",
+    "address": "Dailekh dailekh@nepalbank.com.np 059004089",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "54",
+    "branch_name": "Damak",
+    "manager": "Ranjit Kumar Sah Mobile : 9852670620",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "address": "Damak, Jhapa damak@nepalbank.com.np 023-590584, 590585",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "55",
+    "branch_name": "Damauli",
+    "manager": "Kalpana Sunar Mobile : 9856026084",
+    "province": "Gandaki Province",
+    "district": "Tanahu",
+    "address": "Kalika Marga, Damauli, Tahanun damauli@nepalbank.com.np 065-563155, 563955",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "56",
+    "branch_name": "Dang",
+    "manager": "Viswo Raj Adhikari Mobile : 9857830644",
+    "province": "Lumbini Province",
+    "district": "Dang Deukhuri",
+    "address": "Bankroad, Ghorahi dang@nepalbank.com.np 082-560012, 560166, 562471",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "57",
+    "branch_name": "Dhadingbesi",
+    "manager": "Sujan  Adhikari Mobile : 9851214709",
+    "province": "Bagmati Province",
+    "district": "Dhading",
+    "address": "Dhadingbesi, Dhading dhadingbesi@nepalbank.com.np 010-520096",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "58",
+    "branch_name": "Dhamboji",
+    "manager": "Pramod Acharya Mobile : 9858021857",
+    "province": "Lumbini Province",
+    "district": "Banke",
+    "address": "Dhamboji, Nepalgunj, Banke dhamboji@nepalbank.com.np 081-530205, 532320, 532130",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "59",
+    "branch_name": "Dhangadhi",
+    "manager": "Kapila Shrestha Mobile : 9858420639",
+    "province": "Sudurpashchim Province",
+    "district": "Kailali",
+    "address": "Main Road,Dhangadhi dhangadhi@nepalbank.com.np 091-417804, 417465",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "60",
+    "branch_name": "Dhangadhi Chauraha",
+    "manager": "Mukesh Bahadur Chand Mobile : 9858489272",
+    "province": "Sudurpashchim Province",
+    "district": "Kailali",
+    "address": "Dhangadhi  Sub-Metropolitancity dhangadhichauraha@nepalbank.com.np 091-591339",
+    "coordinates": {
+      "latitude": 28.6833,
+      "longitude": 80.5667
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "61",
+    "branch_name": "Dhankuta",
+    "manager": "MANJU  ACHARYA Mobile : 9852070407",
+    "province": "Koshi Province",
+    "district": "Dhankuta",
+    "address": "Dhankuta Bazar, Dhankuta Nagarpalika Ward No. 7 dhankuta@nepalbank.com.np 026590623/590624",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "62",
+    "branch_name": "Dharan City Office",
+    "manager": "Menuka Adhikari Mobile : 9852047584",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "address": "Sunsari dharanco@nepalbank.com.np 025-570084/570413, 520413",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "63",
+    "branch_name": "Dhulabari",
+    "manager": "Gautam Rai Mobile : 9852673181",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "address": "Dhulabari,Jhapa dhulabari@nepalbank.com.np 023-560293",
+    "coordinates": {
+      "latitude": 26.667654661192,
+      "longitude": 88.099638672522
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "64",
+    "branch_name": "Dhunche",
+    "manager": "Lakpa Rinjee Sherpa Mobile : 9851106536",
+    "province": "Bagmati Province",
+    "district": "Rasuwa",
+    "address": "Dhunche, Rasuwa dhunche@nepalbank.com.np 010-540278",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "65",
+    "branch_name": "Diktel",
+    "manager": "Ram Bhusan Singh Mobile : 9852849388",
+    "province": "Koshi Province",
+    "district": "Khotang",
+    "address": "diktel@nepalbank.com.np 036-420619, 420388",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "66",
+    "branch_name": "Dolpa",
+    "manager": "Ravi Bhandari Mobile : 9858391084",
+    "province": "Karnali Province",
+    "district": "Dolpa",
+    "address": "Dunai, Dolpa dolpa@nepalbank.com.np 087-550084",
+    "coordinates": {
+      "latitude": 28.953586,
+      "longitude": 82.894884
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "67",
+    "branch_name": "Dudhauli",
+    "manager": "SUMAN  SHRESTHA Mobile : 9854047666",
+    "province": "Bagmati Province",
+    "district": "Sindhuli",
+    "address": "Dudhauli, Sindhuli dudhauli@nepalbank.com.np 047-412074, 412084",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "68",
+    "branch_name": "Duhabi",
+    "manager": "Ram Bhusan Singh Mobile : 9852023017",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "address": "Duhabi,Sunsari duhabi@nepalbank.com.np 025-542020/542021",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "69",
+    "branch_name": "Duipiple",
+    "manager": "Bishnu Aryal Mobile : 9856078220",
+    "province": "Gandaki Province",
+    "district": "Lamjung",
+    "address": "Madhya Nepal, Lamjung duipiple@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "70",
+    "branch_name": "Dumre",
+    "manager": "Amrit Subedi Mobile : 9856028903",
+    "province": "Gandaki Province",
+    "district": "Tanahu",
+    "address": "Dumre Bazar,Tanahun dumre@nepalbank.com.np 065-580196",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "71",
+    "branch_name": "Duwakot",
+    "manager": "Prabin Basi Mobile : 9851342627",
+    "province": "Bagmati Province",
+    "district": "Bhaktapur",
+    "address": "Changunarayan Municipality duwakot@nepalbank.com.np 01-5917551, 5917552",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "72",
+    "branch_name": "Gaighat",
+    "manager": "Sushil Kumar Pyakurel Mobile : 9852830778",
+    "province": "Koshi Province",
+    "district": "Udayapur",
+    "address": "Gaighat, Udayapur gaighat@nepalbank.com.np 035-421378",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "73",
+    "branch_name": "Galkot",
+    "manager": "Arjun Bhandari Mobile : 9857625155",
+    "province": "Gandaki Province",
+    "district": "Baglung",
+    "address": "Harichaur Galkot , Baglung galkot@nepalbank.com.np 068-411002",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "74",
+    "branch_name": "Gaur",
+    "manager": "Sailendra Prasad Mahato Mobile : 9855040134",
+    "province": "Madhesh Province",
+    "district": "Rautahat",
+    "address": "Gaur, Rautahat gaur@nepalbank.com.np 055-521373",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "75",
+    "branch_name": "Gauradaha",
+    "manager": "Binaya  Raj Sangraula Mobile : 9852676015",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "address": "Gauradaha,Jhapa gauradaha@nepalbank.com.np 023-480270, 480271",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "76",
+    "branch_name": "Gaurigunj",
+    "manager": "Deepak Paudel Mobile : 9852670963",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "address": "Gaurigunj,Jhapa gaurigunj@nepalbank.com.np 023-412005",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "77",
+    "branch_name": "Gaushala",
+    "manager": "Dipendra Prasad Yadav Mobile : 9854027857",
+    "province": "Madhesh Province",
+    "district": "Mahottari",
+    "address": "Gaushala, Mahottari gaushala@nepalbank.com.np 044-556145",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "78",
+    "branch_name": "Geetanagar",
+    "manager": "Kiran Baral Mobile : 9855081404",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "address": "Geetanagar, Chitwan geetanagar@nepalbank.com.np 056-400225",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "79",
+    "branch_name": "Ghartigaun",
+    "manager": "Bhuwan Bhatta Mobile : 9857825515",
+    "province": "Lumbini Province",
+    "district": "Rolpa",
+    "address": "GHARTIGAUN, ROLPA ghartigaun@nepalbank.com.np 086-416024",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "80",
+    "branch_name": "Godar",
+    "manager": "Sudarshan Prasad Dahal Mobile : 9854029023",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "address": "Ganeshman Charnath 45600 godar@nepalbank.com.np 041-413001",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "81",
+    "branch_name": "Gokuleshwor",
+    "manager": "Ram Chandra Joshi Mobile : 9858781782",
+    "province": "Sudurpashchim Province",
+    "district": "Darchula",
+    "address": "Shailyashikhar, Darchula gokuleshwor@nepalbank.com.np 9858781782",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "82",
+    "branch_name": "Golbazar",
+    "manager": "Sumit Kumar Thakur Mobile : 9852830853",
+    "province": "Madhesh Province",
+    "district": "Siraha",
+    "address": "Golbazar, Siraha golbazar@nepalbank.com.np 033-540353",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "83",
+    "branch_name": "Gongabu",
+    "manager": "Deepa Khadka Mobile : 9851344494",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Tokha Municipality gongabu@nepalbank.com.np 015914694/5914794",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "84",
+    "branch_name": "Greenland",
+    "manager": "Apsara Regmi Mobile : 9851334592",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Greenland, Tokha Municipality greenland@nepalbank.com.np 01-5912060  & 01-5912061",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "85",
+    "branch_name": "Gulariya",
+    "manager": "Kush Adhikari Mobile : 9858074100",
+    "province": "Lumbini Province",
+    "district": "Bardiya",
+    "address": "Gulariya ,Bardiya gulariya@nepalbank.com.np 084-420502, 421206",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "86",
+    "branch_name": "Haadigaun",
+    "manager": "Giri Raj Banjade Mobile : 9851273889",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Bhatbhateni, Kathmandu hadigaun@nepalbank.com.np 01-4525909",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "87",
+    "branch_name": "Hakimchowk",
+    "manager": "Rabindra Giri Mobile : 9855068122",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "address": "Bharatpur Metropolitan hakimchowk@nepalbank.com.np 056-494319, 494320",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "88",
+    "branch_name": "Haripurbazar",
+    "manager": "Anil Kumar Mahato Mobile : 9854035639",
+    "province": "Madhesh Province",
+    "district": "Sarlahi",
+    "address": "Haripur, Sarlahi haripur@nepalbank.com.np 046-411200",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "89",
+    "branch_name": "Hariwon",
+    "manager": "Gobinda Tripathi Mobile : 9854035704",
+    "province": "Madhesh Province",
+    "district": "Sarlahi",
+    "address": "Hariwon, Sarlahi hariwon@nepalbank.com.np 046-530611, 530620",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "90",
+    "branch_name": "Hattigauda",
+    "manager": "Niraj Ghale Mobile : 9851310005",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "hattigauda@nepalbank.com.np 01-5907069, 5907079",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "91",
+    "branch_name": "Hemja",
+    "manager": "Bishnu Khanal Mobile : 9856012755",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "address": "Hemja Milan Chowk,Kaski hemja@nepalbank.com.np 061-400500, 400501",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "92",
+    "branch_name": "Hetauda City Office",
+    "manager": "Tej Prasad Nepal Mobile : 9855067606",
+    "province": "Bagmati Province",
+    "district": "Makwanpur",
+    "address": "Hetauda hetaudaco@nepalbank.com.np 057-520729, 520010",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "93",
+    "branch_name": "Hetauda Industrail Estate",
+    "manager": "Purushottam Timalsina Mobile : 9855067598",
+    "province": "Bagmati Province",
+    "district": "Makwanpur",
+    "address": "Hetauda, Makwanpur hie@nepalbank.com.np 057-412997, 412698",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "94",
+    "branch_name": "Ilam",
+    "manager": "Ajaya Chaudhary Mobile : 9852680135",
+    "province": "Koshi Province",
+    "district": "Ilam",
+    "address": "Ilam ilam@nepalbank.com.np 027-523018/523063",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "95",
+    "branch_name": "Imadol",
+    "manager": "Nikkey Shrestha Mobile : 9851274881",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "imadol@nepalbank.com.np 01-5203029",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "96",
+    "branch_name": "Itahari",
+    "manager": "Yadav Prasad Adhikari Mobile : 9852046779",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "address": "Itahari,Sunsari itahari@nepalbank.com.np 025580059/587585",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "97",
+    "branch_name": "Jagadulla",
+    "manager": "Mahendra Rawal Mobile : 9849328358",
+    "province": "Karnali Province",
+    "district": "Dolpa",
+    "address": "Jagadulla, Dolpa jagadulla@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "98",
+    "branch_name": "Jajarkot",
+    "manager": "Shyam Bahadur Mahatara Mobile : 9858051219",
+    "province": "Karnali Province",
+    "district": "Jajarkot",
+    "address": "Khalanga. Jajarkot jajarkot@nepalbank.com.np 089-430219",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "99",
+    "branch_name": "Janakpur City Office",
+    "manager": "Sachin Chandra Karna Mobile : 9854024450",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "address": "C.O.Janakpur,Dhanusha janakpurco@nepalbank.com.np 041-590170, 590171",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "100",
+    "branch_name": "Jaubari",
+    "manager": "Anil Prasad Gupta Mobile : 9856074830",
+    "province": "Gandaki Province",
+    "district": "Gorkha",
+    "address": "Jaubari, Siranchowk Gaunpalika Ward no. 8 jaubari@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "101",
+    "branch_name": "Jawalakhel",
+    "manager": "Prabhas Singh Mobile : 9851014152",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "Jawalakhel, Lalitpur jawalakhel@nepalbank.com.np 01-5452989, 01-5147118",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "102",
+    "branch_name": "Jeetpur",
+    "manager": "Pradeep Bishunke Mobile : 9855023094",
+    "province": "Madhesh Province",
+    "district": "Bara",
+    "address": "Jeetpur, Bara jeetpur@nepalbank.com.np 053-412070",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "103",
+    "branch_name": "Jhalari",
+    "manager": "Harish Badu Mobile : 9858780000",
+    "province": "Sudurpashchim Province",
+    "district": "Kanchanpur",
+    "address": "Jhalari,Kanchanpur jhalari@nepalbank.com.np 099-540068",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "104",
+    "branch_name": "Jhamsikhel",
+    "manager": "Anuja Dangol Mobile : 9851275325",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "Jhamsikhel, Lalitpur jhamsikhel@nepalbank.com.np 015453745 \\5453945",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "105",
+    "branch_name": "Jhumka",
+    "manager": "Kamal  Bhujel Mobile : 9852046490",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "address": "Jhumka,Sunsari jhumka@nepalbank.com.np 025-562350",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "106",
+    "branch_name": "Jogbudha",
+    "manager": "Deepak Raj Pandey Mobile : 9858784545",
+    "province": "Sudurpashchim Province",
+    "district": "Dadeldhura",
+    "address": "Jogbudha,Dadeldhura jogbudha@nepalbank.com.np 096-411009",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "107",
+    "branch_name": "Jomsom",
+    "manager": "Manju Ale Mobile : 9857650043",
+    "province": "Gandaki Province",
+    "district": "Mustang",
+    "address": "Jomsom bajar,Mustang jomsom@nepalbank.com.np 069-440055",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "108",
+    "branch_name": "Jorpati",
+    "manager": "Sangita Pudashaini Mobile : 9851182848",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Jorpati, Kathmandu jorpati@nepalbank.com.np 01-5134398, 5134397",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "109",
+    "branch_name": "Jumla",
+    "manager": "Arjun Jung Nagarkoti Mobile : 9858366708",
+    "province": "Karnali Province",
+    "district": "Jumla",
+    "address": "Chandannath Nagarpaika  Ward No. 5 jumla@nepalbank.com.np 087520708",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "110",
+    "branch_name": "Kaike",
+    "manager": "Mukesh Rawat Mobile : 9868970611",
+    "province": "Karnali Province",
+    "district": "Dolpa",
+    "address": "Kaike, Dolpa kaike@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "111",
+    "branch_name": "Kakadvitta",
+    "manager": "Gobinda Prasad Subedi Mobile : 9852671334",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "address": "Kakadvitta,Jhapa kakadvitta@nepalbank.com.np 023-566055/566251",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "112",
+    "branch_name": "Kalaiya",
+    "manager": "Sudish Kumar Kushawaha Mobile : 9855045111",
+    "province": "Madhesh Province",
+    "district": "Bara",
+    "address": "Gadhimai 44400 kalaiya@nepalbank.com.np 053-551438, 550008",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "113",
+    "branch_name": "Kalanki",
+    "manager": "Bina Baral Mobile : 9851241005",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Kalanki, Kathmandu kalanki@nepalbank.com.np 015234261",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "114",
+    "branch_name": "Kalimati",
+    "manager": "Ashok Kumar Karki Mobile : 9851138698",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Kalimati, Kathmandu kalimati@nepalbank.com.np 01-5906692, 5906693",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "115",
+    "branch_name": "Kalyanpur",
+    "manager": "Binod Kumar Sah Mobile : 9852821377",
+    "province": "Madhesh Province",
+    "district": "Saptari",
+    "address": "Kalyanpur, Saptari kalyanpur@nepalbank.com.np 031-540451",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "116",
+    "branch_name": "Kanchanpur",
+    "manager": "Samit Kumar Sah Mobile : 9852820379",
+    "province": "Madhesh Province",
+    "district": "Saptari",
+    "address": "Kanchanpur, Saptari kanchanpur@nepalbank.com.np 031-560011",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "117",
+    "branch_name": "Kandaghari",
+    "manager": "PRATIK BANTAWA Mobile : 9851314281",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Kandaghari, Kathmandu kandaghari@nepalbank.com.np 01-5908845, 01-5908851",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "118",
+    "branch_name": "Kantipath",
+    "manager": "Ganesh Kumar Khatri Mobile : 9851019546",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "kantipath@nepalbank.com.np 01-5344956, 5344957",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "119",
+    "branch_name": "Kapan",
+    "manager": "Kamala Khatiwada Gajurel Mobile : 9851275794",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Kapan kapan@nepalbank.com.np 01-4813001, 4813002",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "120",
+    "branch_name": "Kathariya",
+    "manager": "Bikash Jaiswal Mobile : 9855044605",
+    "province": "Madhesh Province",
+    "district": "Rautahat",
+    "address": "Kathariya, Rautahat kathariya@nepalbank.com.np 9855042227",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "121",
+    "branch_name": "Kathmandu Banking Office",
+    "manager": "Shiva Ram Mishra Mobile : 9851021897",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Kathmandu kbo@nepalbank.com.np 01-4223792(Direct)  5347999(Extension)",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "122",
+    "branch_name": "Kaushaltar",
+    "manager": "Parshu Ram Sharma Mobile : 9851342257",
+    "province": "Bagmati Province",
+    "district": "Bhaktapur",
+    "address": "Madhyapur Thimi Municipality kaushaltar@nepalbank.com.np 01-5912772, 5912773",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "123",
+    "branch_name": "Kawasoti",
+    "manager": "Mekh Bahadur Khatri Mobile : 9857088165",
+    "province": "Gandaki Province",
+    "district": "Nawalpur",
+    "address": "Thakalichowk Kawasoti , Nawalpuri (Bardaghat Susta Purba ) kawasoti@nepalbank.com.np 078-541196, 541197",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "124",
+    "branch_name": "Khairenitar",
+    "manager": "Bharat Basnet Mobile : 9856011955",
+    "province": "Gandaki Province",
+    "district": "Tanahu",
+    "address": "Kahirenitar bazar, Tanahun khairenitar@nepalbank.com.np 065-412254, 412255",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "125",
+    "branch_name": "Khandbari",
+    "manager": "Pankaj Rajbanshi Mobile : 9852023954",
+    "province": "Koshi Province",
+    "district": "Sankhuwasabha",
+    "address": "Khandbari, Sankhuwasawa khandbari@nepalbank.com.np 029562284",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "126",
+    "branch_name": "Khasyauli City Office",
+    "manager": "Pratigya Subedi Mobile : 9857026555",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "address": "Butwal, Rupandehi khasyaulico@nepalbank.com.np 071-541036, Credit: 071-530291",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "127",
+    "branch_name": "Khimti Besi",
+    "manager": "BIPIN  THAPA Mobile : 9854022148",
+    "province": "Bagmati Province",
+    "district": "Ramechhap",
+    "address": "khimtibesi@nepalbank.com.np 048-411048",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "128",
+    "branch_name": "Khopasi",
+    "manager": "SURAJ  SHRESTHA Mobile : 9851245974",
+    "province": "Bagmati Province",
+    "district": "Kavrepalanchok",
+    "address": "khopasi@nepalbank.com.np 011-410001",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "129",
+    "branch_name": "Khumaltar",
+    "manager": "Jay Prakash Yadav Mobile : 9851344464",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "Lalitpur Metropolitan khumaltar@nepalbank.com.np 01-5230985, 5230984",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "130",
+    "branch_name": "Kirtipur",
+    "manager": "Narayan Dahal Mobile : 9851014076",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Kirtipur, Kathmandu kirtipur@nepalbank.com.np 01-4332637",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "131",
+    "branch_name": "Kohalpur",
+    "manager": "Naina Gyawali Mobile : 9858073072",
+    "province": "Lumbini Province",
+    "district": "Banke",
+    "address": "Kohalpur kohalpur@nepalbank.com.np 081-540520, 540206",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "132",
+    "branch_name": "Koteshwor",
+    "manager": "Yogesh Khatri Mobile : 9851141040",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "koteshwor@nepalbank.com.np 014610709 ,014610809",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "133",
+    "branch_name": "Krishnanagar",
+    "manager": "Binod Kumar Gupt Mobile : 9857026846",
+    "province": "Lumbini Province",
+    "district": "Kapilvastu",
+    "address": "Krishnanagar, Kapilvastu krishnanagar@nepalbank.com.np 076-520022, 520849",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "134",
+    "branch_name": "Kupondol",
+    "manager": "Chandra Gopal Maharjan Mobile : 9851142616",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "Kupondol, Lalitpur kupondole@nepalbank.com.np 01-5422040, 5439747",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "135",
+    "branch_name": "Kushma",
+    "manager": "Prakash Pokhrel Mobile : 9857620172",
+    "province": "Gandaki Province",
+    "district": "Parbat",
+    "address": "Dhaneshwor Chowk, Kushma kushma@nepalbank.com.np 067-421260, 420155",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "136",
+    "branch_name": "Lahan",
+    "manager": "Chandra Dip Kumar Sah Mobile : 9852830670",
+    "province": "Madhesh Province",
+    "district": "Siraha",
+    "address": "Lahan, Siraha lahan@nepalbank.com.np 033-563183, 563184",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "137",
+    "branch_name": "Lakeside",
+    "manager": "Sita Rana (Shah) Mobile : 9856088975",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "address": "Pokhara Metropolitan City 06, Lakeside lakeside@nepalbank.com.np 061-590975",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "138",
+    "branch_name": "Lalitpur",
+    "manager": "Siddha Raj Phulara Mobile : 9851110980",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "Lalitpur lalitpur@nepalbank.com.np 01-5423418, 5433204",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "139",
+    "branch_name": "Lamahi",
+    "manager": "Niraj Neupane Mobile : 9857843285",
+    "province": "Lumbini Province",
+    "district": "Dang Deukhuri",
+    "address": "Lamahi Bazar, Lamahi Nagarpalika Ward No. 9 lamahi@nepalbank.com.np 082-590059",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "140",
+    "branch_name": "Lamki",
+    "manager": "Niraj Bhattarai Mobile : 9858477007",
+    "province": "Sudurpashchim Province",
+    "district": "Kailali",
+    "address": "Lamki Bazar, Lamki Chuha Nagarpalika Ward No. 1 lamki@nepalbank.com.np 091-540706, 540707",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "141",
+    "branch_name": "Lazimpat",
+    "manager": "Sarina Maharjan Mobile : 9851014292",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Lazimpat, Kathmandu lazimpat@nepalbank.com.np 01-4514940/01-4537533",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "142",
+    "branch_name": "Lungri",
+    "manager": "Sunil Chaudhary Mobile : 9769146987",
+    "province": "Lumbini Province",
+    "district": "Rolpa",
+    "address": "Lungri, Rolpa lungri@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "143",
+    "branch_name": "Maharajgunj",
+    "manager": "Mahesh Raj Joshi Mobile : 9851221575",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Maharajgunj, Kathmandu maharajgunj@nepalbank.com.np 01-4721552, 4721659",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "144",
+    "branch_name": "Mahendranagar",
+    "manager": "Jhabindra Adhikari Mobile : 9858750204",
+    "province": "Sudurpashchim Province",
+    "district": "Kanchanpur",
+    "address": "Mahendranagar,Kanchanpur mahendranagar@nepalbank.com.np 099-521285",
+    "coordinates": {
+      "latitude": 28.9873,
+      "longitude": 80.1652
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "145",
+    "branch_name": "Mahendranagar Dhanusha",
+    "manager": "Jay Prakash Yadav Mobile : 9854020385",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "address": "Chhireshwornath, Dhanusa mahendranagardhanusa@nepalbank.com.np 041591224/591225",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "146",
+    "branch_name": "Mahuwanbazar",
+    "manager": "Ranjan Kumar Keshari Mobile : 9855038772",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "address": "Mahuwan, Parsa mahuwan@nepalbank.com.np 051-419817",
+    "coordinates": {
+      "latitude": 27.115432209103,
+      "longitude": 84.796989861377
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "147",
+    "branch_name": "Maisthan",
+    "manager": "Amit Narayan Shrestha Mobile : 9855021425",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "address": "Maisthan, Parsa maisthan@nepalbank.com.np 051-522035",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "148",
+    "branch_name": "Malangawa",
+    "manager": "Sadhu Saran Mandal Mobile : 9854035439",
+    "province": "Madhesh Province",
+    "district": "Sarlahi",
+    "address": "Malangawa, Sarlahi malangawa@nepalbank.com.np 046-520139, 520169",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "149",
+    "branch_name": "Mangalbare",
+    "manager": "Roshan Basnet Mobile : 9852682135",
+    "province": "Koshi Province",
+    "district": "Ilam",
+    "address": "Mangalbare,Ilam mangalbare@nepalbank.com.np 027-400203",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "150",
+    "branch_name": "Manigram",
+    "manager": "Baburam Kharel Mobile : 9857029028",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "address": "Tilottama Muncipality-05 ,Manigram, Rupandhehi manigram@nepalbank.com.np 071-562725",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "151",
+    "branch_name": "Matihani",
+    "manager": "Arun Kumar Sah Mobile : 9854021406",
+    "province": "Madhesh Province",
+    "district": "Mahottari",
+    "address": "Matihani, Mahottari matihani@nepalbank.com.np 044-540090, 540091",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "152",
+    "branch_name": "Melamchi",
+    "manager": "Reena Khatri (Mahat) Mobile : 9851130377",
+    "province": "Bagmati Province",
+    "district": "Sindhupalchok",
+    "address": "Melamchi, Sindhupalchok melamchi@nepalbank.com.np 011-401016, 401017",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "153",
+    "branch_name": "Mills Area, Biratnagar",
+    "manager": "Binita Sharma Mobile : 9852023012",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "address": "M.A, Biratnagar millsarea@nepalbank.com.np 021-590847/590849,021-590849",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "154",
+    "branch_name": "Mirchaiya",
+    "manager": "Ganga Deb Sah Mobile : 9852837312",
+    "province": "Madhesh Province",
+    "district": "Siraha",
+    "address": "Mirchaiya municipality mirchaiya@nepalbank.com.np 9852837312",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "155",
+    "branch_name": "Modi",
+    "manager": "Ambika Adhikari Mobile : 9857630124",
+    "province": "Gandaki Province",
+    "district": "Parbat",
+    "address": "Modi Rural Municipality 02, Patichour Parbat modi@nepalbank.com.np 067- 410124",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "156",
+    "branch_name": "Murgiya",
+    "manager": "Prakash Rana Mobile : 9857075574",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "address": "Murgiya murgiya@nepalbank.com.np 071-440363",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "157",
+    "branch_name": "Myagdi Beni",
+    "manager": "Muna Tamrakar Mobile : 9857640055",
+    "province": "Gandaki Province",
+    "district": "Myagdi",
+    "address": "Bank Line, Benibazar, Myagdi myagdibeni@nepalbank.com.np 069-520055",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "158",
+    "branch_name": "Narayangadh",
+    "manager": "Keshab Baruwal Mobile : 9855046991",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "address": "Narayangadh, Chitwan narayangadhco@nepalbank.com.np 056-596767/056-596757",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "159",
+    "branch_name": "Narphu",
+    "manager": "Suraj Aryal Mobile : 9856049001",
+    "province": "Gandaki Province",
+    "district": "Manang",
+    "address": "Narphu, Manang narphu@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "160",
+    "branch_name": "Nayabazar",
+    "manager": "Nabina Ranjit Mobile : 9851279675",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "nayabazar@nepalbank.com.np 01-4955711,01-4955811",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "161",
+    "branch_name": "Nepalgunj City Office",
+    "manager": "Roshan Shahi Mobile : 9858021625",
+    "province": "Lumbini Province",
+    "district": "Banke",
+    "address": "Nepalgunj nepalgunjco@nepalbank.com.np 081-531321, 535646",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "162",
+    "branch_name": "Nijgadh",
+    "manager": "Juhi Kalwar Mobile : 9855013309",
+    "province": "Madhesh Province",
+    "district": "Bara",
+    "address": "Nijgadh Bazar, Nijgadh Nagarpalika Ward No. 9 nijgadh@nepalbank.com.np 053-540212, 540412",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "163",
+    "branch_name": "Okhaldhunga",
+    "manager": "Ram Prasad Kharel Mobile : 9852841555",
+    "province": "Koshi Province",
+    "district": "Okhaldhunga",
+    "address": "Okhaldhunga Bazar, Siddhicharan Nagarpalika ward No. 12 okhaldhunga@nepalbank.com.np 037-520749",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "164",
+    "branch_name": "Pakhribas",
+    "manager": "Khem Raj Upadhaya Mobile : 9852053176",
+    "province": "Koshi Province",
+    "district": "Dhankuta",
+    "address": "Pakhribas, Dhankuta pakhribas@nepalbank.com.np 026-405176",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "165",
+    "branch_name": "Palhinandan",
+    "manager": "Krishna Bahadur  Rayamajhi Mobile : 9857046854",
+    "province": "Lumbini Province",
+    "district": "Parasi District",
+    "address": "Palhinandan-3, Belashpur, Nawalparasi palhinandan@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "166",
+    "branch_name": "Palpa",
+    "manager": "Suraj Adhikari Mobile : 9857060266",
+    "province": "Lumbini Province",
+    "district": "Palpa",
+    "address": "Tansen, Palpa palpa@nepalbank.com.np 075-520130, 5522654",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "167",
+    "branch_name": "Palung",
+    "manager": "Anuraj Thapa Mobile : 9855069404",
+    "province": "Bagmati Province",
+    "district": "Makwanpur",
+    "address": "Palung, Makwanpur palung@nepalbank.com.np 057-400019",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "168",
+    "branch_name": "Panauti",
+    "manager": "Sujata Pandey Mobile : 9851107257",
+    "province": "Bagmati Province",
+    "district": "Kavrepalanchok",
+    "address": "Panauti, Kavrepalanchok panauti@nepalbank.com.np 011-440591",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "169",
+    "branch_name": "Panchkhal",
+    "manager": "Rabindra Dhital Mobile : 9851121506",
+    "province": "Bagmati Province",
+    "district": "Kavrepalanchok",
+    "address": "Panchkhal, KavrePalanchok panchkhal@nepalbank.com.np 011-499008, 499118",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "170",
+    "branch_name": "Parsabazaar",
+    "manager": "Saroj Khanal Mobile : 9855059044",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "address": "Parsabazaar, Chitwan parsabazar@nepalbank.com.np 056-583195, 583175",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "171",
+    "branch_name": "Patan Industrial Estate",
+    "manager": "Gokul Bahadur Saud Mobile : 9851101582",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "Patan Ind. Estate pie@nepalbank.com.np 01-5436582, 5421413",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "172",
+    "branch_name": "Phattepur",
+    "manager": "Rajesh Kumar  Chaudhary Mobile : 9852820113",
+    "province": "Madhesh Province",
+    "district": "Saptari",
+    "address": "Phattepur, Saptari phattepur@nepalbank.com.np 031-550220",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "173",
+    "branch_name": "Phidim",
+    "manager": "CHUDA MANI  NIRAULA Mobile : 9852680795",
+    "province": "Koshi Province",
+    "district": "Panchthar",
+    "address": "Phidim,Panchthar phidim@nepalbank.com.np 024-522155",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "174",
+    "branch_name": "Pokhara City Office",
+    "manager": "Amrit Raj Tiwari Mobile : 9856027286",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "address": "Terssapatti Pailkhechowk,Kaski pokharaco@nepalbank.com.np 061-520154, 532586",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "175",
+    "branch_name": "Prithvichowk",
+    "manager": "BISHNU HARI  NEUPANE Mobile : 9856031163",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "address": "Prithivichowk , Kaski prithivichowk@nepalbank.com.np 061-528819, 520270",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "176",
+    "branch_name": "Provincial Office, Bagmati Province",
+    "manager": "Prabin Kumar Ghimire Mobile : 9851205487",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Kopundole, Lalitpur bagmatiprovince@nepalbank.com.np 01-5181133",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "177",
+    "branch_name": "Provincial Office, Gandaki Province",
+    "manager": "Sachita Parajuli Mobile : 9856002155",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "address": "Pokhara, Kaski gandakiprovince@nepalbank.com.np 061-571112, 061-581250",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "178",
+    "branch_name": "Provincial Office, Karnali Province",
+    "manager": "Dinesh Prasad Paudel Mobile : 9851144705",
+    "province": "Karnali Province",
+    "district": "Surkhet",
+    "address": "Birendranagar, Surkhet karnaliprovince@nepalbank.com.np 083-590019, 590020",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "179",
+    "branch_name": "Provincial Office, Koshi Province",
+    "manager": "Surya Prakash Bhatta Mobile : 9851112750",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "address": "Biratnagar, Morang koshiprovince@nepalbank.com.np 021-572397, 576986",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "180",
+    "branch_name": "Provincial Office, Lumbini Province",
+    "manager": "Arjun Bahadur Kandel Mobile : 9851231225",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "address": "Butwal, Rupandehi lumbiniprovince@nepalbank.com.np 071-540080",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "181",
+    "branch_name": "Provincial Office, Madhesh Province",
+    "manager": "Khadga Singh Moktan (Tamang) Mobile : 9851169773",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "address": "Birgunj, Parsa madheshprovince@nepalbank.com.np 051-591324, 591749",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "182",
+    "branch_name": "Provincial Office, Sudurpaschim Province",
+    "manager": "Uma Nakarmi Mobile : 9841345354",
+    "province": "Sudurpashchim Province",
+    "district": "Kailali",
+    "address": "Dhangadi, Kailali sudurpaschimprovince@nepalbank.com.np 091-417437",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "183",
+    "branch_name": "Putalisadak",
+    "manager": "Usha Adhikari Paudel Mobile : 9851010824",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Dillibazar,Kathmandu putalisadak@nepalbank.com.np 01-4012588, 4012585",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "184",
+    "branch_name": "Pyuthan",
+    "manager": "Sushil Khanal Mobile : 9857833223",
+    "province": "Lumbini Province",
+    "district": "Pyuthan",
+    "address": "Khalanga pyuthan@nepalbank.com.np 086-420050, 420223",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "185",
+    "branch_name": "Rabi",
+    "manager": "Sabin Tamang Mobile : 9852652813",
+    "province": "Koshi Province",
+    "district": "Panchthar",
+    "address": "Rabi Bazar, Miklajung Gaunpalika Ward No. 4 rabi@nepalbank.com.np 024-412155",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "186",
+    "branch_name": "Rajapur",
+    "manager": "Lomas Prasad Bhattarai Mobile : 9858022994",
+    "province": "Lumbini Province",
+    "district": "Bardiya",
+    "address": "rajapur@nepalbank.com.np 084-460155",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "187",
+    "branch_name": "Rajbiraj",
+    "manager": "Surendra Prasad Yadav Mobile : 9852820364",
+    "province": "Madhesh Province",
+    "district": "Saptari",
+    "address": "Rajbiraj, Saptari rajbiraj@nepalbank.com.np 031-522287",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "188",
+    "branch_name": "Rajdevi",
+    "manager": "Roshan Shah Mobile : 9855056135",
+    "province": "Madhesh Province",
+    "district": "Rautahat",
+    "address": "Rajdevi, Rautahat rajdevi@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "189",
+    "branch_name": "Ramjanaki",
+    "manager": "Narendra Kumar Yadav Mobile : 9854022028",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "address": "Janakpur 45600 ramjanaki@nepalbank.com.np 041-590317, 590318",
+    "coordinates": {
+      "latitude": 26.729153647344,
+      "longitude": 85.926971094143
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "190",
+    "branch_name": "Rampur",
+    "manager": "Sabita K.C. Mobile : 9855065592",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "address": "Rampur, Chitwan rampur@nepalbank.com.np 056-591977, 592141",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "191",
+    "branch_name": "Rangeli",
+    "manager": "Iswari Prasad Bhandari Mobile : 9852023398",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "address": "Rangeli,Morang rangeli@nepalbank.com.np 021-580662",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "192",
+    "branch_name": "Raniban Branch",
+    "manager": "Sushila Dirgharaj Pathak Mobile : 9851335975",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Raniban, Nagarjun Municipality raniban@nepalbank.com.np 9851335975",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "193",
+    "branch_name": "Ratnanagar",
+    "manager": "Shanta Ram Gurung Mobile : 9855057555",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "address": "Ratnanagar, Chitwan ratnanagar@nepalbank.com.np 056-560210, 560728",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "194",
+    "branch_name": "Rolpa",
+    "manager": "Bishnu Panday Mobile : 9857824076",
+    "province": "Lumbini Province",
+    "district": "Rolpa",
+    "address": "Loktantrik Chowk, Rolpa rolpa@nepalbank.com.np 086-440293, 440115",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "195",
+    "branch_name": "Rukum",
+    "manager": "Santosh Kumar Sharma Mobile : 9866853999",
+    "province": "Karnali Province",
+    "district": "Western Rukum District",
+    "address": "Musikot, Rukum rukum@nepalbank.com.np 088-530350, 088-530093",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "196",
+    "branch_name": "Rukumkot",
+    "manager": "Sashi Ram K.C. Mobile : 9857839062",
+    "province": "Lumbini Province",
+    "district": "Eastern Rukum District",
+    "address": "Rukumkot rukumkot@nepalbank.com.np 088-413087",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "197",
+    "branch_name": "Sabaila",
+    "manager": "Gobinda Kumar Sah Mobile : 9854030082",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "address": "Sabaila, Dhanusa sabaila@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "198",
+    "branch_name": "Sainik",
+    "manager": "Nabaraj Dawadi Mobile : 9851019524",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Nepal Sainik Shakha, Tripureshwor sainik@nepalbank.com.np 01-4117037, 4117210",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "199",
+    "branch_name": "Salleri",
+    "manager": "Chhatra Kumari Limbu Mobile : 9852840662",
+    "province": "Koshi Province",
+    "district": "Solukhumbu",
+    "address": "Salleri Bazar, Soludhudhkunda Nagarpalika Ward no. 5 salleri@nepalbank.com.np 038-520471",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "200",
+    "branch_name": "Salyan",
+    "manager": "Gayatri Bhattarai Mobile : 9857844553",
+    "province": "Karnali Province",
+    "district": "Salyan",
+    "address": "Khalanga, Salyan salyan@nepalbank.com.np 088-520333",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "201",
+    "branch_name": "Samanpur",
+    "manager": "Rakesh Shrivastav Mobile : 9855042063",
+    "province": "Madhesh Province",
+    "district": "Rautahat",
+    "address": "Samanpur, Rautahat samanpur@nepalbank.com.np 9855047995",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "202",
+    "branch_name": "Sandhikharka",
+    "manager": "Amu Paudyal (Gautam) Mobile : 9857069892",
+    "province": "Lumbini Province",
+    "district": "Arghakhanchi",
+    "address": "Sandhikharka, Arghakhanchi sandhikharka@nepalbank.com.np 077-420892",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "203",
+    "branch_name": "Sanfebagar",
+    "manager": "Lok Raj Ojha Mobile : 9858479457",
+    "province": "Sudurpashchim Province",
+    "district": "Achham",
+    "address": "Hatbazar, Sanfebagar sanfebagar@nepalbank.com.np 097590137",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "204",
+    "branch_name": "Sankhu",
+    "manager": "Hari Krishna Upadhaya Mobile : 9851019805",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Sankhu, Kathmandu sankhu@nepalbank.com.np 01-4450667, 4450191",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "205",
+    "branch_name": "Sano Pokhara",
+    "manager": "Janaki Baniya Mobile : 9855012010",
+    "province": "Bagmati Province",
+    "district": "Makwanpur",
+    "address": "Hetauda, Makawanpur sanopokhara@nepalbank.com.np 057-521518, 521618",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "206",
+    "branch_name": "Sanoshree",
+    "manager": "Loknath Bhusal Mobile : 9858020501",
+    "province": "Lumbini Province",
+    "district": "Bardiya",
+    "address": "Sanoshree, Bardiya sanoshree@nepalbank.com.np 084-440065",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "207",
+    "branch_name": "Sarlahiparsa",
+    "manager": "Shivechandra Yadav Mobile : 9854050263",
+    "province": "Madhesh Province",
+    "district": "Sarlahi",
+    "address": "Sarlahiparsa, Sarlahi sarlahiparsa@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "208",
+    "branch_name": "Shantipur",
+    "manager": "Raju Thapa Mobile : 9857042056",
+    "province": "Lumbini Province",
+    "district": "Gulmi",
+    "address": "Shantipur, Gulmi shantipur@nepalbank.com.np 079-420056, 420057",
+    "coordinates": {
+      "latitude": 28.110308,
+      "longitude": 83.414913
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "209",
+    "branch_name": "Shreepur",
+    "manager": "Indra Dev Yadav Mobile : 9855021428",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "address": "Shreepur,Parsa shreepur@nepalbank.com.np 051-522808, 522809",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "210",
+    "branch_name": "Siddharthanagar",
+    "manager": "Santosh Sharma Mobile : 9857022812",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "address": "Narayanpath siddharthanagar@nepalbank.com.np 071-520135, 570646",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "211",
+    "branch_name": "Singati",
+    "manager": "Anil Shrestha Mobile : 9851110807",
+    "province": "Bagmati Province",
+    "district": "Dholkha",
+    "address": "singati@nepalbank.com.np 049-410122",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "212",
+    "branch_name": "Siraha",
+    "manager": "Ashok Kumar Sah Mobile : 9852830837",
+    "province": "Madhesh Province",
+    "district": "Siraha",
+    "address": "Siraha siraha@nepalbank.com.np 033-520283",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "213",
+    "branch_name": "Sirijungha",
+    "manager": "Arun Rajbanshi Mobile : 9852660688",
+    "province": "Koshi Province",
+    "district": "Taplejung",
+    "address": "Sirijungha,Taplejung sirijungha@nepalbank.com.np",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "214",
+    "branch_name": "Sisahaniya",
+    "manager": "Suraj  Tiwari Mobile : 9857841293",
+    "province": "Lumbini Province",
+    "district": "Dang Deukhuri",
+    "address": "Sisahaniya, Dang sisahaniya@nepalbank.com.np 082-402111, 402112",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "215",
+    "branch_name": "Sitapaila",
+    "manager": "Lalita Dangol Mobile : 9851335136",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Sita paila, Kathmandu Metropolitan sitapaila@nepalbank.com.np 5312347, 5312328",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "216",
+    "branch_name": "Sundarbazar",
+    "manager": "Subash Thapa Magar Mobile : 9856029085",
+    "province": "Gandaki Province",
+    "district": "Lamjung",
+    "address": "Bhakti Tirtha Sadak Sundarbazar, Lamjung sundarbazar@nepalbank.com.np 066-402155, 402175",
+    "coordinates": {
+      "latitude": 28.1278052,
+      "longitude": 84.4110278
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "217",
+    "branch_name": "Suntaletar",
+    "manager": "Santosh Baral Mobile : 9856054135",
+    "province": "Gandaki Province",
+    "district": "Syangja",
+    "address": "Suntaletar, Chapakot, Syangja suntaletar@nepalbank.com.np 063-411135",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "218",
+    "branch_name": "Surkhet",
+    "manager": "Balraj Budha Mobile : 9858083325",
+    "province": "Karnali Province",
+    "district": "Surkhet",
+    "address": "Birendranagar Municipality surkhet@nepalbank.com.np 083590975/590976",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "219",
+    "branch_name": "Surunga",
+    "manager": "Santos Nepal Mobile : 9852674232",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "address": "Surunga,Jhapa surunga@nepalbank.com.np 023-551002, 550844",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "220",
+    "branch_name": "Suryabinayak",
+    "manager": "Binita Nepal Mobile : 9851150248",
+    "province": "Bagmati Province",
+    "district": "Bhaktapur",
+    "address": "Suryabinayak, Bhaktapur suryabinayak@nepalbank.com.np 01-5708050, 5708051",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "221",
+    "branch_name": "Syangja",
+    "manager": "Laxman Rakhal  Thapa Mobile : 9856027311",
+    "province": "Gandaki Province",
+    "district": "Syangja",
+    "address": "Hulak Marg, Syangja syangja@nepalbank.com.np 063424155,063424514",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "222",
+    "branch_name": "Taalchowk",
+    "manager": "Usha  Ghimire Mobile : 9856000955",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "address": "Pokhara Lekhnath 27 taalchowk@nepalbank.com.np 061-561150, 561155",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "223",
+    "branch_name": "Tamghas",
+    "manager": "SURAJ  TIWARI Mobile : 9857085920",
+    "province": "Lumbini Province",
+    "district": "Gulmi",
+    "address": "Tamghas Bazar, Resunga Nagarpalika Ward No. 8 tamghas@nepalbank.com.np 07952128",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "224",
+    "branch_name": "Tankisinwari",
+    "manager": "Chandrakala Khatri Mobile : 9852040476",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "address": "Budhiganga, Morang tankisinwari@nepalbank.com.np 021420476/420477",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "225",
+    "branch_name": "Taplejung",
+    "manager": "Basundhara  Acharya Mobile : 9842660620",
+    "province": "Koshi Province",
+    "district": "Taplejung",
+    "address": "Taplejung taplejung@nepalbank.com.np 024-460515",
+    "coordinates": {
+      "latitude": 27.625330248481,
+      "longitude": 87.776301113492
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "226",
+    "branch_name": "Terhathum",
+    "manager": "Dharmendra Kumar Lal Karna Mobile : 9852024415",
+    "province": "Koshi Province",
+    "district": "Terhathum",
+    "address": "Terhathum tehrathum@nepalbank.com.np 026-460106",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "227",
+    "branch_name": "Thaiba",
+    "manager": "Bikram Singh Thakuri Mobile : 9851014112",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "address": "Thaiba, Lalitpur thaiba@nepalbank.com.np 01-5014785, 5014786",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "228",
+    "branch_name": "Thakurdwara",
+    "manager": "Jhapat Bahadur Sodari Mobile : 9858033277",
+    "province": "Lumbini Province",
+    "district": "Bardiya",
+    "address": "Thakurdwara thakurdwara@nepalbank.com.np 084-402094",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "229",
+    "branch_name": "Thankot",
+    "manager": "Shambhu Kumar Sharma Mobile : 9851014060",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "address": "Thankot, Kathmandu thankot@nepalbank.com.np 01-4313438, 4312184",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "230",
+    "branch_name": "Thimi",
+    "manager": "Bidur Bikram Thapa Mobile : 9851014295",
+    "province": "Bagmati Province",
+    "district": "Bhaktapur",
+    "address": "Thimi, Bhaktapur thimi@nepalbank.com.np 01-5093380, 5093482",
+    "coordinates": {
+      "latitude": 27.67318,
+      "longitude": 85.386491
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "231",
+    "branch_name": "Thutepipal",
+    "manager": "Santosh Aryal Mobile : 9857022214",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "address": "Thutepipal, Lakhanchowk thutepipal@nepalbank.com.np 071-429497",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "232",
+    "branch_name": "Tikapur",
+    "manager": "Tek Bohara Mobile : 9858421511",
+    "province": "Sudurpashchim Province",
+    "district": "Kailali",
+    "address": "Tikapur,Kaialali tikapur@nepalbank.com.np 091-560917, 560155",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "233",
+    "branch_name": "Trisuli",
+    "manager": "Laxmi Pandit Mobile : 9851103351",
+    "province": "Bagmati Province",
+    "district": "Nuwakot",
+    "address": "Trishuli trisuli@nepalbank.com.np 010-560608, 560155",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "234",
+    "branch_name": "Triveni",
+    "manager": "Purnanand Pathak Mobile : 9858488470",
+    "province": "Sudurpashchim Province",
+    "district": "Bajura",
+    "address": "Triveni,Bajura triveni@nepalbank.com.np 097594242",
+    "coordinates": {
+      "latitude": 29.4415,
+      "longitude": 81.4853
+    },
+    "Map": "Map"
+  },
+  {
+    "s_no": "235",
+    "branch_name": "Tulsipur",
+    "manager": "SATISH  SHAHI Mobile : 9857826400",
+    "province": "Lumbini Province",
+    "district": "Dang Deukhuri",
+    "address": "tulsipur@nepalbank.com.np 082-523484, 523485",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "236",
+    "branch_name": "Urlabari",
+    "manager": "Sunil Shah Mobile : 9852054616",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "address": "Urlabari,\tMorang urlabari@nepalbank.com.np 021-541994, 541997",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "237",
+    "branch_name": "Waling",
+    "manager": "DARSHANA  BHATTARAI Mobile : 9856020114",
+    "province": "Gandaki Province",
+    "district": "Syangja",
+    "address": "Tallo Waling, Syangja waling@nepalbank.com.np 063-440114",
+    "coordinates": null,
+    "Map": "Map"
+  },
+  {
+    "s_no": "238",
+    "branch_name": "Wamitaksar",
+    "manager": "MIRA  SHAKYA Mobile : 9857072302",
+    "province": "Lumbini Province",
+    "district": "Gulmi",
+    "address": "Wamitaksar wamitaksar@nepalbank.com.np 079-412215",
+    "coordinates": null,
+    "Map": "Map"
+  }
+]

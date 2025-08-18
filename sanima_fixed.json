@@ -1,0 +1,85 @@
+{
+  "branches": [
+    {
+      "id": "76f036c7-07ed-460f-a8d9-bbb36e02b5d5",
+      "title": "Amargadhi Branch",
+      "title_np": "\u0905\u092e\u0930\u0917\u0922\u0940 \u0936\u093e\u0916\u093e",
+      "telephone": "00977-96-410286/87",
+      "fax": null,
+      "code": "54",
+      "latitude": "29.305069",
+      "longitude": "80.592273",
+      "plusCode": null,
+      "address": "Amargadhi-5, Dadeldhura",
+      "address_np": "\u0905\u092e\u0930\u0917\u0922\u0940-\u096b, \u0921\u0921\u0947\u0932\u094d\u0927\u0941\u0930\u093e",
+      "hide_in_website": false,
+      "province": {
+        "id": "6874dd29a54e11ddb86c4ec7",
+        "title": "Sudurpaschim Pradesh",
+        "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u096d",
+        "code": 7
+      },
+      "district": {
+        "id": "6874ba8099fdd3150d6c4c26",
+        "title": "Dadeldhura",
+        "titleNp": "\u0921\u0921\u0947\u0932\u094d\u0927\u0941\u0930\u093e",
+        "code": 73,
+        "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+      },
+      "email": "Amargadhi@sanimabank.com",
+      "extended_hour": {
+        "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+        "system_name": "no",
+        "display_name": "No"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "description": null,
+      "description_np": null,
+      "status": true,
+      "qos": null,
+      "cash_counter": false,
+      "upcoming_branch": false,
+      "branch_category": {
+        "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+        "systemName": "outside_valley",
+        "displayName": "Outside Valley",
+        "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+        "order": null
+      },
+      "category": {
+        "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+        "name": "Branch",
+        "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+        "slug": "branch",
+        "typeId": {
+          "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+          "system_name": "branch",
+          "display_name": "Branch"
+        },
+        "image": null,
+        "order": 2,
+        "status": true
+      },
+      "branch_manager": {
+        "id": "9d7aa440-da62-4b92-a3df-624680c8f0f3",
+        "branch": {
+          "id": "76f036c7-07ed-460f-a8d9-bbb36e02b5d5",
+          "title": "Amargadhi Branch",
+          "titleNp": "\u0905\u092e\u0930\u0917\u0922\u0940 \u0936\u093e\u0916\u093e"
+        },
+        "name": "Kshetra Bikram Shahi",
+        "nameNp": "\u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u0935\u093f\u0915\u094d\u0930\u092e \u0936\u093e\u0939\u0940",
+        "email": "Amargadhi@sanimabank.com",
+        "managerPhone": "9841695754",
+        "phone": null,
+        "branchManagerImage": null,
+        "status": true,
+        "hideInWebsite": false,
+        "isBranchManager": true
+      },
+      "operation_incharge": null,
+      "iframe": null
+    }
+  ]
+}

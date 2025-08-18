@@ -1,0 +1,1591 @@
+[
+  {
+    "branch_name": "Amarsingh Chowk Branch",
+    "manager": "Suvaraj Kafle",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "061-435124",
+    "fax": "061-435325",
+    "address": "Uttam Chowk, Pokhara, Lekhnath-10, Kaski, NepalN/A",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Attariya Branch",
+    "manager": "Gauri Kumari Regmi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "091-550007",
+    "fax": "091-550080",
+    "address": "Mahendranagar Road, Attariya, Kailali, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Kailali",
+    "coordinates": {
+      "latitude": 28.812922,
+      "longitude": 80.549408
+    }
+  },
+  {
+    "branch_name": "Baglung Branch",
+    "manager": "Ramesh Prasad Bhandari",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "068-522185/186",
+    "fax": "068-522187",
+    "address": "Aawa Road, Baglung, Nepal",
+    "province": "Gandaki Province",
+    "district": "Baglung",
+    "coordinates": {
+      "latitude": 28.2660146,
+      "longitude": 83.6009809
+    }
+  },
+  {
+    "branch_name": "Bajhang Branch",
+    "manager": "Kumar Thing Tamang",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "092-421398",
+    "fax": "092-421397",
+    "address": "Jayaprithvi Municipality-10, Chainpur, Bajhang, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Bajhang",
+    "coordinates": {
+      "latitude": 29.551084,
+      "longitude": 81.196345
+    }
+  },
+  {
+    "branch_name": "Banepa Branch",
+    "manager": "Kishor Palikhel",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "011-664182",
+    "fax": "011-663211",
+    "address": "Chardomato, Banepa-07, Kavrepalanchok, NepalN/A",
+    "province": "Bagmati Province",
+    "district": "Kavrepalanchok",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Bansgadhi Branch",
+    "manager": "Mahesh Pyakurel",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "084-400169",
+    "fax": "084-400170",
+    "address": "Bansgadhi Bazzar, Bansgadhi-05, Bardiya, Nepal",
+    "province": "Lumbini Province",
+    "district": "Bardiya",
+    "coordinates": {
+      "latitude": 28.242054,
+      "longitude": 81.519418
+    }
+  },
+  {
+    "branch_name": "Bardaghat Branch",
+    "manager": "Chiranjivi Paudel",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "078-590520 / 078-590521",
+    "fax": "NA",
+    "address": "Bardaghat Bajar, Mainroad-4, Nawalparasi West, Lumbini, Nepal",
+    "province": "Lumbini Province",
+    "district": "Nawalparasi West",
+    "coordinates": {
+      "latitude": 27.5566457,
+      "longitude": 83.7898721
+    }
+  },
+  {
+    "branch_name": "Bardibas Branch",
+    "manager": "Bimal Bhusal",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "9802535930",
+    "fax": "NA",
+    "address": "Bardibas Chowk, Bardibas Municipality-01, Bardibas, Nepal",
+    "province": "Madhesh Province",
+    "district": "Mahottari",
+    "coordinates": {
+      "latitude": 26.990672,
+      "longitude": 85.89295
+    }
+  },
+  {
+    "branch_name": "Battar Branch",
+    "manager": "Dinesh Acharya",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "010-561955",
+    "fax": "010-561956",
+    "address": "Battar Bazzar, Bidur Municipality-02, Nuwakot, NepalN/A",
+    "province": "Bagmati Province",
+    "district": "Nuwakot",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Bauniya Branch",
+    "manager": "Dharmanand Joshi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "91404140",
+    "fax": "91404208",
+    "address": "Main Road, Bardgoriya VDC-02, Kailali, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Kailali",
+    "coordinates": {
+      "latitude": 28.658021,
+      "longitude": 81.050512
+    }
+  },
+  {
+    "branch_name": "Beshisahar Branch",
+    "manager": "Anil Gurung",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "066-520771",
+    "fax": "066-520772",
+    "address": "Tribeni Tole, Besishahar, Lamjung, Nepal",
+    "province": "Gandaki Province",
+    "district": "Lamjung",
+    "coordinates": {
+      "latitude": 28.231716,
+      "longitude": 84.377184
+    }
+  },
+  {
+    "branch_name": "Bhairahawa Branch",
+    "manager": "Joshan Joshi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "071- 587360/573577",
+    "fax": "071-527361",
+    "address": "Prahari Tole, Siddharthanagar-12, Bhairahawa, Rupendehi, Nepal",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "coordinates": {
+      "latitude": 27.5071075,
+      "longitude": 83.4509213
+    }
+  },
+  {
+    "branch_name": "Bhojpur Branch",
+    "manager": "Khagendra Nepal",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "029-420721",
+    "fax": "029-420722",
+    "address": "Dandagaun, Bhojpur VDC -07, Bhojpur, NepalN/A",
+    "province": "Koshi Province",
+    "district": "Bhojpur",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Biratchowk Branch",
+    "manager": "Prabhat Guragain",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "021-548169",
+    "fax": "977-021-548168",
+    "address": "Biratchowk, Pashim Bus Stand, Morang, Sundarharaicha, NepalN/A",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Biratnagar Branch",
+    "manager": "Binay Prasad Upadhaya",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "021-570528, 570527, 517645",
+    "fax": "021-530527",
+    "address": "Dharan Road, Biratnagar Morang, Nepal",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "coordinates": {
+      "latitude": 26.4591666217363,
+      "longitude": 87.2780587903724
+    }
+  },
+  {
+    "branch_name": "Birauta Branch",
+    "manager": "Subash Bhattarai",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "061-590073/ 590076",
+    "fax": "NA",
+    "address": "Birauta, Siddharta Raj Marg, Pokhara -17, Kaski, Nepal",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "coordinates": {
+      "latitude": 28.1930926,
+      "longitude": 83.9720896
+    }
+  },
+  {
+    "branch_name": "Birgunj Branch",
+    "manager": "Mr. Sunil Giri",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "051-523048 / 527163 / 533158",
+    "fax": "051-527164",
+    "address": "Adarshanagar, Birgunj, Parsa, NepalN/A",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Birtamod Branch",
+    "manager": "Suraj Subedi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "023-533805 / 023-534880",
+    "fax": "023-535650",
+    "address": "Sanischare Road, Birtamod-5, Jhapa, Nepal",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "coordinates": {
+      "latitude": 26.645241,
+      "longitude": 88.00007
+    }
+  },
+  {
+    "branch_name": "Biruwa Branch",
+    "manager": "Mekh Bahadur Khadka",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "9856030180",
+    "fax": "-",
+    "address": "Biruwa Bazzar, Biruwa Gaupalika-01, Syangja, Nepal",
+    "province": "Gandaki Province",
+    "district": "Syangja",
+    "coordinates": {
+      "latitude": 28.01924,
+      "longitude": 83.899813
+    }
+  },
+  {
+    "branch_name": "Butwal Branch",
+    "manager": "Prabhat Raman Uprety",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "071-533661, 533662, 535661",
+    "fax": "-",
+    "address": "Butwal-4, Palpa Road, Rupandehi, Nepal",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "coordinates": {
+      "latitude": 27.703907,
+      "longitude": 83.466711
+    }
+  },
+  {
+    "branch_name": "Chandranigahapur Branch",
+    "manager": "Krishna Chandra Karn",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "055-540642",
+    "fax": "055-540690",
+    "address": "Gaur-Chapur Highway, Ward No. 4, Chandrapur Municipality, Rautahat, Madhesh Pradesh (200 mts West-South\n                from current location)",
+    "province": "Madhesh Province",
+    "district": "Rautahat",
+    "coordinates": {
+      "latitude": 27.118613,
+      "longitude": 85.358874
+    }
+  },
+  {
+    "branch_name": "Chandrauta Branch",
+    "manager": "Manoj Rimal",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "076-540446",
+    "fax": "076-540447",
+    "address": "Chandrauta, Kapilvastu -5, Nepal",
+    "province": "Lumbini Province",
+    "district": "Kapilvastu",
+    "coordinates": {
+      "latitude": 27.649126,
+      "longitude": 82.863055
+    }
+  },
+  {
+    "branch_name": "Daldale Branch",
+    "manager": "Sunil Bhusal",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "078-590978 / 79",
+    "fax": "NA",
+    "address": "Opposite of Hotel Chris, Daldale, Devchuli-13, Nawalpur, Nepal",
+    "province": "Gandaki Province",
+    "district": "Nawalparasi",
+    "coordinates": {
+      "latitude": 27.6703683,
+      "longitude": 84.1940729
+    }
+  },
+  {
+    "branch_name": "Damak Branch",
+    "manager": "Deepti Rajbanshi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "023-575956 / 575957",
+    "fax": "023-585957",
+    "address": "Pragatitole, Near Aakashe (Overhead) Bridge, Damak -8, Jhapa, Nepal",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "coordinates": {
+      "latitude": 26.65953,
+      "longitude": 87.695531
+    }
+  },
+  {
+    "branch_name": "Damauli Branch",
+    "manager": "Meenu Maharjan",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "065-590598 ,99",
+    "fax": "NA",
+    "address": "Padam Chowk, Damauli, Byas Municipality-02, Tanahun, Nepal",
+    "province": "Gandaki Province",
+    "district": "Tanahun",
+    "coordinates": {
+      "latitude": 27.97417,
+      "longitude": 84.26868
+    }
+  },
+  {
+    "branch_name": "Dhading Branch",
+    "manager": "Maheshwor Pudasaini",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "010-520631",
+    "fax": "010-520443",
+    "address": "Bich Bazar, Nilkantha VDC -03, Dhading, Nepal",
+    "province": "Bagmati Province",
+    "district": "Dhading",
+    "coordinates": {
+      "latitude": 27.91110482,
+      "longitude": 84.89306392
+    }
+  },
+  {
+    "branch_name": "Dhangadhi Branch",
+    "manager": "Ramesh Shakya",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "091-523641/523642",
+    "fax": "091-523643",
+    "address": "Main Road, Dhangadhi, Kailali ,Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Kailali",
+    "coordinates": {
+      "latitude": 28.7044,
+      "longitude": 80.571604
+    }
+  },
+  {
+    "branch_name": "Dharan Branch",
+    "manager": "Shiv Kumar Poudel",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "025-570971 / 570974",
+    "fax": "025 - 520971",
+    "address": "Putali Line, Dharan Sub Metorpolitan City-10, Sunsari, Nepal",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "coordinates": {
+      "latitude": 26.81251,
+      "longitude": 87.27913
+    }
+  },
+  {
+    "branch_name": "Dharke Branch",
+    "manager": "Dhawa Lama",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "010-414149/ 414152",
+    "fax": "NA",
+    "address": "Dharke Bazaar, Dnunibesi Municipality-06, Dhading, NepalN/A",
+    "province": "Bagmati Province",
+    "district": "Dhading",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Dhulabari Branch",
+    "manager": "Laxman Acharya",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "023-591002 / 591003",
+    "fax": "NA",
+    "address": "Near Dhulabari Chowk, Mechinagar - 10, Jhapa, Nepal",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "coordinates": {
+      "latitude": 26.65861457834238,
+      "longitude": 88.10069954242479
+    }
+  },
+  {
+    "branch_name": "Dipayal Branch",
+    "manager": "Saroj Maharjan",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "094-412168",
+    "fax": "094-412178",
+    "address": "Seti Highway, Dipayal Silgadhi-04, Doti, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Doti",
+    "coordinates": {
+      "latitude": 29.25055122,
+      "longitude": 80.94361886
+    }
+  },
+  {
+    "branch_name": "Duhabi Branch",
+    "manager": "",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": ""
+    },
+    "phone": "025-542628, 025-542627, 025-542625",
+    "fax": "025-540627",
+    "address": "Koshi Highway, Duhabi, Sunsari , Nepal",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "coordinates": {
+      "latitude": 26.56697,
+      "longitude": 87.28057
+    }
+  },
+  {
+    "branch_name": "Dupcheshwor Branch",
+    "manager": "Shyam Chandra Rupakheti",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "9851241518",
+    "fax": "-",
+    "address": "Samundratar, Dupcheshwor Gaupalika-06, Nuwakot, Nepal",
+    "province": "Bagmati Province",
+    "district": "Nuwakot",
+    "coordinates": {
+      "latitude": 27.921674,
+      "longitude": 85.381178
+    }
+  },
+  {
+    "branch_name": "Fikkal Branch",
+    "manager": "Alok Dahal",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "027-540546",
+    "fax": "027-540547",
+    "address": "Fikkal Bazar, Suryodaya-10, Ilam, Nepal",
+    "province": "Koshi Province",
+    "district": "Ilam",
+    "coordinates": {
+      "latitude": 26.89559,
+      "longitude": 88.067235
+    }
+  },
+  {
+    "branch_name": "Gaighat Branch",
+    "manager": "Shib Kumar Karki",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "035-422079 / 422080",
+    "fax": "NA",
+    "address": "Himali Tole, Gaighat, Triyuga Municipality-11, Udayapur, NepalN/A",
+    "province": "Koshi Province",
+    "district": "Udayapur",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Garuda Branch",
+    "manager": "Bishnu Paudel",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "055-565068",
+    "fax": "055-565069",
+    "address": "Grauda Chowk, Garuda-4, Rautahat, NepalN/A",
+    "province": "Madhesh Province",
+    "district": "Rautahat",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Ghorahi Branch",
+    "manager": "Shiva Krishna Shrestha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "082-564244 / 45",
+    "fax": "082-564245",
+    "address": "BP Chowk, Ghorahi Sub Metropolitan City-15, Ghorahi, Dang, Nepal",
+    "province": "Lumbini Province",
+    "district": "Dang",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Gorkha Branch",
+    "manager": "Chola Kant Sharma",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "064-420414",
+    "fax": "064-421558",
+    "address": "Haramtari, Gorkha Bazar, Gorkha-6, Nepal",
+    "province": "Gandaki Province",
+    "district": "Gorkha",
+    "coordinates": {
+      "latitude": 27.994005,
+      "longitude": 84.626031
+    }
+  },
+  {
+    "branch_name": "Gulariya Branch",
+    "manager": "Deepak Kumar Jha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "084-420038",
+    "fax": "084-420039",
+    "address": "Narayangopal Chowk, Gulariya-6, Bardiya, Nepal",
+    "province": "Lumbini Province",
+    "district": "Bardiya",
+    "coordinates": {
+      "latitude": 28.20507,
+      "longitude": 81.34478
+    }
+  },
+  {
+    "branch_name": "Hakimchowk Branch",
+    "manager": "Mrigesh Shrestha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "056-590328 / 590428",
+    "fax": "056-520328",
+    "address": "Hakimchowk, Bharatpur Metropolitan City-10, Chitwan, NepalN/A",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Hetauda Branch",
+    "manager": "Surit Sharma",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "057-527003",
+    "fax": "057-527004",
+    "address": "Ajar Amar Road, Hetauda-4, Makawanpur, Nepal",
+    "province": "Bagmati Province",
+    "district": "Makwanpur",
+    "coordinates": {
+      "latitude": 27.42844,
+      "longitude": 85.03168
+    }
+  },
+  {
+    "branch_name": "Icd Branch",
+    "manager": "Sampurna Maharjan",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "051-590013 / 527825 (BCO)",
+    "fax": "NA",
+    "address": "Sirsiya, Dryport, Parsa, Nepal",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "coordinates": {
+      "latitude": 27.023449,
+      "longitude": 84.853107
+    }
+  },
+  {
+    "branch_name": "Inaruwa Branch",
+    "manager": "Biva Joshi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "025- 565012 / 565013",
+    "fax": "NA",
+    "address": "Bank Road, Inaruwa , Inaruwa Municipality-01, Sunsari, Nepal",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Itahari Branch",
+    "manager": "Shashank Koirala",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "025-586411 / 586412 / 587136",
+    "fax": "NA",
+    "address": "1st Floor, Central Plaza Building, Itahari Sub-Metropolitancity-06, Sunsari, Nepal",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "coordinates": {
+      "latitude": 26.663855,
+      "longitude": 87.275195
+    }
+  },
+  {
+    "branch_name": "Janakpur Branch",
+    "manager": "Bikrant Sharma",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "041-590364/590365",
+    "fax": "NA",
+    "address": "Mills Area, Janakpur Dhanusa , Nepal",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "coordinates": {
+      "latitude": 26.73710633445107,
+      "longitude": 85.93184531316896
+    }
+  },
+  {
+    "branch_name": "Jeetpur Branch",
+    "manager": "Shard Pratap Singh",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "076-550134 / 550171",
+    "fax": "NA",
+    "address": "Banganga Municipality-1, KapilvastuN/A",
+    "province": "Lumbini Province",
+    "district": "Kapilvastu",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Jhalari Branch",
+    "manager": "Deepak Kumar Jha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "099-540287",
+    "fax": "NA",
+    "address": "Jhalari Bazar, Shuklaphata -10, Kanchanpur, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Kanchanpur",
+    "coordinates": {
+      "latitude": 28.902552,
+      "longitude": 80.345164
+    }
+  },
+  {
+    "branch_name": "Kalaiya Branch",
+    "manager": "Bikash Giri",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "053-551482",
+    "fax": "053-551867",
+    "address": "Rauniyar Complex, Bariyapur Road, Kalaiya-04, Bara, Nepal",
+    "province": "Madhesh Province",
+    "district": "Bara",
+    "coordinates": {
+      "latitude": 27.03202,
+      "longitude": 85.004714
+    }
+  },
+  {
+    "branch_name": "Kanchanbari Branch",
+    "manager": "Santosh Sigdel",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "021-460089 / 460766",
+    "fax": "-",
+    "address": "Opp. AB petrol Pump, Kanchanbari, Biratnagar Metropolitan City-04, Morang, Nepal N/A",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Kanchanpur Branch",
+    "manager": "Pradip Katuwal",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "031-560571",
+    "fax": "0",
+    "address": "Beriyar, Kanchanpur- 8, Saptari, Nepal",
+    "province": "Madhesh Province",
+    "district": "Saptari",
+    "coordinates": {
+      "latitude": 26.633503,
+      "longitude": 86.90957
+    }
+  },
+  {
+    "branch_name": "Kawasoti Branch",
+    "manager": "Mr. Sovit Karki",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "078-540671",
+    "fax": "078-540948",
+    "address": "Sabhapati Chowk, Kawasoti-03, Nawalparasi East, Nepal",
+    "province": "Gandaki Province",
+    "district": "Nawalparasi",
+    "coordinates": {
+      "latitude": 27.642083,
+      "longitude": 84.1228
+    }
+  },
+  {
+    "branch_name": "Khaireni Branch",
+    "manager": "Raju Bhusal",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "071-577474 / 577480",
+    "fax": "NA",
+    "address": "Devdaha Municipality-7, Rupandehi",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "coordinates": {
+      "latitude": 27.646062,
+      "longitude": 83.590405
+    }
+  },
+  {
+    "branch_name": "Khandbari Branch",
+    "manager": "Reetu Joshi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "029-563121",
+    "fax": "029-563131",
+    "address": "Bhanu Chowk, Khandbari-01, Sankhuwasabha, Nepal",
+    "province": "Koshi Province",
+    "district": "Sankhuwasabha",
+    "coordinates": {
+      "latitude": 27.376117,
+      "longitude": 87.207606
+    }
+  },
+  {
+    "branch_name": "Kohalpur Branch",
+    "manager": "Prabin Subedi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "081-541815 / 541816",
+    "fax": "NA",
+    "address": "Near Dhital Petrol Pump, Kohalpur-11, Banke, Nepal",
+    "province": "Lumbini Province",
+    "district": "Banke",
+    "coordinates": {
+      "latitude": 28.193333,
+      "longitude": 81.687778
+    }
+  },
+  {
+    "branch_name": "Krishnanagar Branch",
+    "manager": "Paban Koirala",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "076-520428",
+    "fax": "076-520429",
+    "address": "Bank Road, Krishnanagar VDC-2, Kapilvastu, NepalN/A",
+    "province": "Lumbini Province",
+    "district": "Kapilvastu",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Kushma Branch",
+    "manager": "Sanjib Man Shrestha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "067-421173",
+    "fax": "067-421169",
+    "address": "Loktantrik Chowk, Kushma Bazzar, Parbat, Nepal",
+    "province": "Gandaki Province",
+    "district": "Parbat",
+    "coordinates": {
+      "latitude": 28.21966671,
+      "longitude": 83.67803122
+    }
+  },
+  {
+    "branch_name": "Lalbandi Branch",
+    "manager": "Surya Bahadur Thapa",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "046-590002 / 590003",
+    "fax": "NA",
+    "address": "Opposite of election commission office, Lalbandi - 7, Sarlahi, Nepal",
+    "province": "Madhesh Province",
+    "district": "Sarlahi",
+    "coordinates": {
+      "latitude": 27.052602,
+      "longitude": 85.635402
+    }
+  },
+  {
+    "branch_name": "Lamahi Branch",
+    "manager": "Devendra Aryal",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "082-540802",
+    "fax": "082-540801",
+    "address": "Bank Road, Lamahi -05, Lamahi, Dang, Nepal",
+    "province": "Lumbini Province",
+    "district": "Dang",
+    "coordinates": {
+      "latitude": 27.87364,
+      "longitude": 82.52009
+    }
+  },
+  {
+    "branch_name": "Lamki Branch",
+    "manager": "Sanim Maharjan",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "091-540527",
+    "fax": "091-540528",
+    "address": "Main Road, Lamki Bazar, Lamki Chuha Municipality-1, Kailali, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Kailali",
+    "coordinates": {
+      "latitude": 28.628895,
+      "longitude": 81.151028
+    }
+  },
+  {
+    "branch_name": "Lekhnath Branch",
+    "manager": "Suman Khatri",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "061-563777",
+    "fax": "061-560977",
+    "address": "Taal Chowk, Lekhnath, Kaski, Nepal",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "coordinates": {
+      "latitude": 28.162844,
+      "longitude": 84.057023
+    }
+  },
+  {
+    "branch_name": "Lumbini Branch",
+    "manager": "Sandip Sapkota",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "071-580297",
+    "fax": "071-580298",
+    "address": "Mahilwar Chowk, Lumbini Sanskritik Municipality -10, Rupandehi, Nepal",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "coordinates": {
+      "latitude": 27.469885,
+      "longitude": 83.28451
+    }
+  },
+  {
+    "branch_name": "Mahakulung",
+    "manager": "Bhishma Raj Bhandari",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "9842036710",
+    "fax": "-",
+    "address": "Bung, Mahakulung VDC-01, Solukhumbhu, NepalN/A",
+    "province": "Koshi Province",
+    "district": "Solukhumbu",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Mahendranagar (Dhanusha) Branch",
+    "manager": "Aditya Kumar Jha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "041-540151 / 540153",
+    "fax": "977",
+    "address": "Kshireshwornath Municipality-02, Mahendranagar, Dhanusha, Nepal",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "coordinates": {
+      "latitude": 26.86759,
+      "longitude": 85.96391
+    }
+  },
+  {
+    "branch_name": "Mahendranagar Branch",
+    "manager": "Tejendra Bahadur K.C.",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "099 - 525389",
+    "fax": "099 - 525388",
+    "address": "Campus Road, Bhimdutta Nagar -18, Mahendranagar, Kanchanpur, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Kanchanpur",
+    "coordinates": {
+      "latitude": 28.963916,
+      "longitude": 80.17949
+    }
+  },
+  {
+    "branch_name": "Manigram Branch",
+    "manager": "Thaneshwor Bhandari",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "071-590026 / 590027",
+    "fax": "NA",
+    "address": "Tilottama Municipality -5, Rupandehi",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "coordinates": {
+      "latitude": 27.631609,
+      "longitude": 83.472845
+    }
+  },
+  {
+    "branch_name": "Mirchaiya Branch",
+    "manager": "Rajeeb Sigdel",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "033-550866",
+    "fax": "033-550869",
+    "address": "Thana Chowk, Mirchaiya-05, Siraha, Nepal",
+    "province": "Madhesh Province",
+    "district": "Siraha",
+    "coordinates": {
+      "latitude": 26.8309,
+      "longitude": 86.2481
+    }
+  },
+  {
+    "branch_name": "Murali Chowk Branch",
+    "manager": "Shravan Kumar Pandit",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "041-591516/ 591117",
+    "fax": "NA",
+    "address": "200 Meter south from Murali Chowk, Janakpur - 4, Dhanusha, Nepal",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "coordinates": {
+      "latitude": 26.71952,
+      "longitude": 85.92955
+    }
+  },
+  {
+    "branch_name": "Murgiya Branch",
+    "manager": "Hiraman Shrestha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "071-440009",
+    "fax": "NA",
+    "address": "Sainamaina Municipality-3, Rupandehi",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "coordinates": {
+      "latitude": 27.687156,
+      "longitude": 83.343765
+    }
+  },
+  {
+    "branch_name": "Narayangarh Branch",
+    "manager": "Prakash Gyawali",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "056-596565/ 596827 /596465",
+    "fax": "056-520465",
+    "address": "Shahidpath, Narayangarh, Chitwan, Nepal",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "coordinates": {
+      "latitude": 27.695708,
+      "longitude": 84.422071
+    }
+  },
+  {
+    "branch_name": "Nepalgunj Branch",
+    "manager": "Raju Kumar Bhagat",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "081-525804/05",
+    "fax": "081-525902",
+    "address": "Surkhet Road, Dhamboji, Banke, Nepalganj, Nepal",
+    "province": "Lumbini Province",
+    "district": "Banke",
+    "coordinates": {
+      "latitude": 28.065237,
+      "longitude": 81.624807
+    }
+  },
+  {
+    "branch_name": "Okhaldhunga Branch",
+    "manager": "Madan Kr. Shrestha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "037-520504",
+    "fax": "0",
+    "address": "Ganesh Tole, Siddhicharan-12, Okhaldhunga, Nepal",
+    "province": "Koshi Province",
+    "district": "Okhaldhunga",
+    "coordinates": {
+      "latitude": 27.317481,
+      "longitude": 86.501221
+    }
+  },
+  {
+    "branch_name": "Parasi Branch",
+    "manager": "Deepak Kumar Bajimaya",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "078-590661",
+    "fax": "NA",
+    "address": "Mahesh Chowk (Ghantaghar), Ramgram-05, Nawalparasi( Bardaghat Susta Paschim), Nepal",
+    "province": "Lumbini Province",
+    "district": "Nawalparasi",
+    "coordinates": {
+      "latitude": 27.530833,
+      "longitude": 83.663333
+    }
+  },
+  {
+    "branch_name": "Parsa Branch",
+    "manager": "Ganesh Kumar Shrestha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "056-582960",
+    "fax": "056-583192",
+    "address": "Chaubiskothi Chowk, Parsa Bazar, Khairahani-8, Chitwan, Nepal",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "coordinates": {
+      "latitude": 27.612266,
+      "longitude": 84.570016
+    }
+  },
+  {
+    "branch_name": "Pathari Branch",
+    "manager": "Saurav Singh Maharjan",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "021-555081",
+    "fax": "NA",
+    "address": "Opposite of Gorakha Department store, Pathari Shanischare-01, Morang, Nepal",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "coordinates": {
+      "latitude": 26.661103,
+      "longitude": 87.560614
+    }
+  },
+  {
+    "branch_name": "Phidim Branch",
+    "manager": "Suresh Basnet",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "024-590210",
+    "fax": "NA",
+    "address": "Opposite of District Hospital Panchthar, Hospital Road, Phidim-01, Panchthar, Nepal",
+    "province": "Koshi Province",
+    "district": "Panchthar",
+    "coordinates": {
+      "latitude": 27.1479974,
+      "longitude": 87.76734249
+    }
+  },
+  {
+    "branch_name": "Phungling Branch",
+    "manager": "Lava Kumar Timilsina",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "024-593109 / 593110",
+    "fax": "NA",
+    "address": "Takme Dada, Falgunanda Statue, Kopche, JimiPokhari, Phungling-04, Taplejung, Nepal",
+    "province": "Koshi Province",
+    "district": "Taplejung",
+    "coordinates": {
+      "latitude": 27.35613066880899,
+      "longitude": 87.66887010028842
+    }
+  },
+  {
+    "branch_name": "Pipra Branch",
+    "manager": "Saroj Bhandari",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "044-548053",
+    "fax": "044-548063",
+    "address": "Pipra Bazar, Pipara Rural Municipality-04, Mahottari, Nepal",
+    "province": "Madhesh Province",
+    "district": "Mahottari",
+    "coordinates": {
+      "latitude": 26.681378,
+      "longitude": 85.855544
+    }
+  },
+  {
+    "branch_name": "Pokhara Branch",
+    "manager": "Ujjwal Raj Sharma",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "061- 544491 / 552291",
+    "fax": "061-544492",
+    "address": "New Road, Pokhara , Kaski, Nepal",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "coordinates": {
+      "latitude": 28.21996794779875,
+      "longitude": 83.98712071131894
+    }
+  },
+  {
+    "branch_name": "Rajapur Branch",
+    "manager": "Ravi Adhikari",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "084-460104, 084-460254",
+    "fax": "NA",
+    "address": "Rajapur Municipality Office, Rajapur ward no. 04, Bardiya, Nepal",
+    "province": "Lumbini Province",
+    "district": "Bardiya",
+    "coordinates": {
+      "latitude": 28.429703,
+      "longitude": 81.090083
+    }
+  },
+  {
+    "branch_name": "Rajbiraj Branch",
+    "manager": "Prakash Maharjan",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "031-533570",
+    "fax": "031-533571",
+    "address": "Tribhuwan Chowk, Adalat Road, Rajbira-7, Saptari, NepalN/A",
+    "province": "Madhesh Province",
+    "district": "Saptari",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Rukum Branch",
+    "manager": "Saroj Atreya",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "088-530336",
+    "fax": "088-530337",
+    "address": "Khalanga, Salle Road, Musikot - 01, Rukum West, NepalN/A",
+    "province": "Karnali Province",
+    "district": "Rukum",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Saipal Branch",
+    "manager": "Prakash Bahadur Bist",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "NA",
+    "fax": "NA",
+    "address": "Near Bhaukhado Temple, Dhalun Tole, Saipal-01, Bajhang, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Bajhang",
+    "coordinates": {
+      "latitude": 29.696247,
+      "longitude": 81.367385
+    }
+  },
+  {
+    "branch_name": "Sandhikharka Branch",
+    "manager": "Rabindra Subedi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "077-420801",
+    "fax": "077-420802",
+    "address": "Chutrabeshi, Sandhikharka MCP-02, Arghakhanchi, Nepal",
+    "province": "Lumbini Province",
+    "district": "Arghakhanchi",
+    "coordinates": {
+      "latitude": 27.976241,
+      "longitude": 83.123806
+    }
+  },
+  {
+    "branch_name": "Shikhar Branch",
+    "manager": "Lokesh Joshi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "094-590335",
+    "fax": "NA",
+    "address": "Gopghat, K. I. Singh Highway, Shikhar-08, Doti, NepalN/A",
+    "province": "Sudhur Paschim Province",
+    "district": "Doti",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Silichong",
+    "manager": "Siddhartha Subedi",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "9852058667",
+    "fax": "-",
+    "address": "Tamku, Silichong Rural Municipality-03, Sankhuwasabha, Nepal",
+    "province": "Koshi Province",
+    "district": "Sankhuwasabha",
+    "coordinates": {
+      "latitude": 27.485285,
+      "longitude": 87.10036
+    }
+  },
+  {
+    "branch_name": "Simara Branch",
+    "manager": "Sagun Nepal",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "053- 520506",
+    "fax": "053-520616",
+    "address": "Simara Chowk, Jitpur Simara, Bara , Nepal",
+    "province": "Madhesh Province",
+    "district": "Bara",
+    "coordinates": {
+      "latitude": 27.164667,
+      "longitude": 84.975593
+    }
+  },
+  {
+    "branch_name": "Sindhuli Branch",
+    "manager": "Nilesh Shakya",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "047-590600 / 590602",
+    "fax": "NA",
+    "address": "Plot no.02 Bazar, Sindhuli Madi, Kamalamai Municipality-06, Sindhuli, Nepal",
+    "province": "Bagmati Province",
+    "district": "Sindhuli",
+    "coordinates": {
+      "latitude": 27.205588004675924,
+      "longitude": 85.91138682265445
+    }
+  },
+  {
+    "branch_name": "Sukkhad Branch",
+    "manager": "Saroj Prasad Yadav",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "091-403224",
+    "fax": "091-403225",
+    "address": "Ghodaghodi Municipality -01, Sukhad, Kailali, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Kailali",
+    "coordinates": {
+      "latitude": 28.674601,
+      "longitude": 80.960472
+    }
+  },
+  {
+    "branch_name": "Surkhet Branch",
+    "manager": "Ujwal Kumar Pokharel",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "083-523552",
+    "fax": "083-523553",
+    "address": "Birendra Chowk, Birendranagar-6, Surkhet, Nepal",
+    "province": "Karnali Province",
+    "district": "Surkhet",
+    "coordinates": {
+      "latitude": 28.59639425,
+      "longitude": 81.6152293
+    }
+  },
+  {
+    "branch_name": "Surma Branch",
+    "manager": "Pushpa Raj Ojha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "9858485772",
+    "fax": "0",
+    "address": "Daulichaur, Surma Rural Municipality-01, Bajhang, NepalN/A",
+    "province": "Sudhur Paschim Province",
+    "district": "Bajhang",
+    "coordinates": null
+  },
+  {
+    "branch_name": "Syangja Branch",
+    "manager": "Binod Shrestha",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "063-425174",
+    "fax": "NA",
+    "address": "Sahidchowk, Putalibazar -1, Syangja, Nepal",
+    "province": "Gandaki Province",
+    "district": "Syangja",
+    "coordinates": {
+      "latitude": 28.09925,
+      "longitude": 83.87181
+    }
+  },
+  {
+    "branch_name": "Talkot Branch",
+    "manager": "Laxman Kumar Singh",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "9801709290",
+    "fax": "0",
+    "address": "Khaula Bazar, Talkot Rural Muncipality-05, Bajhang, Nepal",
+    "province": "Sudhur Paschim Province",
+    "district": "Bajhang",
+    "coordinates": {
+      "latitude": 29.60788,
+      "longitude": 81.30395
+    }
+  },
+  {
+    "branch_name": "Tandi Branch",
+    "manager": "Ajay Bhandari",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "056-562000",
+    "fax": "056-562110",
+    "address": "Main Road, Tandi Chowk, Ratnanagar-02, Chitwan, Nepal",
+    "province": "Bagmati Province",
+    "district": "Chitwan",
+    "coordinates": {
+      "latitude": 27.6219,
+      "longitude": 84.5151
+    }
+  },
+  {
+    "branch_name": "Taulihawa Branch",
+    "manager": "Shankar Ghimire",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "076-561148",
+    "fax": "076-561149",
+    "address": "Naya Tole, Taulihawa, Kapilvastu, Nepal",
+    "province": "Lumbini Province",
+    "district": "Kapilvastu",
+    "coordinates": {
+      "latitude": 27.544697,
+      "longitude": 83.059313
+    }
+  },
+  {
+    "branch_name": "Tikapur Branch",
+    "manager": "Rajan Pokharel",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "091-561357",
+    "fax": "091-561358",
+    "address": "Khakraula Road, Ward No. 1, Tikapur Municipality, Kailali, Sudurpaschim Pradesh (opposite existing\n                building)",
+    "province": "Sudhur Paschim Province",
+    "district": "Kailali",
+    "coordinates": {
+      "latitude": 28.5284,
+      "longitude": 81.1181
+    }
+  },
+  {
+    "branch_name": "Tulsipur Branch",
+    "manager": "Suraj K.C.",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "082-521620",
+    "fax": "082-521621",
+    "address": "BP Chowk, KA-Line, Tulsipur, Dang, Nepal",
+    "province": "Lumbini Province",
+    "district": "Dang",
+    "coordinates": {
+      "latitude": 28.13027185,
+      "longitude": 82.29731456
+    }
+  },
+  {
+    "branch_name": "Yogikuti Branch",
+    "manager": "Susma Gyawali",
+    "emails": {
+      "branch_email": "[email protected]",
+      "bm_email": "[email protected]"
+    },
+    "phone": "071-437028",
+    "fax": "NA",
+    "address": "Tilottama Municipality -3, Rupandehi",
+    "province": "Lumbini Province",
+    "district": "Rupandehi",
+    "coordinates": {
+      "latitude": 27.6671925,
+      "longitude": 83.4647169
+    }
+  }
+]

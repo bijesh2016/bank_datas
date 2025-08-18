@@ -1,0 +1,979 @@
+ {
+                        "id": "76f036c7-07ed-460f-a8d9-bbb36e02b5d5",
+                        "title": "Amargadhi Branch",
+                        "title_np": "\u0905\u092e\u0930\u0917\u0922\u0940 \u0936\u093e\u0916\u093e",
+                        "telephone": "00977-96-410286\/87",
+                        "fax": null,
+                        "code": "54",
+                        "latitude": "29.305069",
+                        "longitude": "80.592273",
+                        "plusCode": null,
+                        "address": "Amargadhi-5, Dadeldhura",
+                        "address_np": "\u0905\u092e\u0930\u0917\u0922\u0940-\u096b, \u0921\u0921\u0947\u0932\u094d\u0927\u0941\u0930\u093e",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec7",
+                            "title": "Sudurpaschim Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u096d",
+                            "code": 7
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4c26",
+                            "title": "Dadeldhura",
+                            "titleNp": "\n\u0921\u0921\u0947\u0932\u094d\u0927\u0941\u0930\u093e",
+                            "code": 73,
+                            "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+                        },
+                        "email": "Amargadhi@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+                            "systemName": "outside_valley",
+                            "displayName": "Outside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "9d7aa440-da62-4b92-a3df-624680c8f0f3",
+                            "branch": {
+                                "id": "76f036c7-07ed-460f-a8d9-bbb36e02b5d5",
+                                "title": "Amargadhi Branch",
+                                "titleNp": "\u0905\u092e\u0930\u0917\u0922\u0940 \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Kshetra Bikram Shahi",
+                            "nameNp": "\u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u0935\u093f\u0915\u094d\u0930\u092e \u0936\u093e\u0939\u0940",
+                            "email": "Amargadhi@sanimabank.com",
+                            "managerPhone": "9841695754",
+                            "phone": null,
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    },
+                
+                    {
+                        "id": "886b9da9-0510-4648-8b5f-61d07f69cfcd",
+                        "title": "Amarsingh Branch",
+                        "title_np": "\u0905\u092e\u0930\u0938\u093f\u0902\u0939 \u0936\u093e\u0916\u093e",
+                        "telephone": "00977-61-435225\/26",
+                        "fax": null,
+                        "code": "48",
+                        "latitude": "28.20487",
+                        "longitude": "84.000448",
+                        "plusCode": null,
+                        "address": "Amarsingh, Pokhara-10, Kaski",
+                        "address_np": "\u0905\u092e\u0930\u0938\u093f\u0902\u0939 \u091a\u094b\u0915, \u092a\u094b\u0916\u0930\u093e\u2013\u0966, \u0915\u093e\u0938\u094d\u0915\u0940",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec4",
+                            "title": "Gandaki Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u096a",
+                            "code": 4
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4c05",
+                            "title": "Kaski",
+                            "titleNp": "\n\u0915\u093e\u0938\u094d\u0915\u0940",
+                            "code": 38,
+                            "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+                        },
+                        "email": "amarsingh@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+                            "systemName": "outside_valley",
+                            "displayName": "Outside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "8c0add04-583a-40da-8b9b-ea19be918b18",
+                            "branch": {
+                                "id": "886b9da9-0510-4648-8b5f-61d07f69cfcd",
+                                "title": "Amarsingh Branch",
+                                "titleNp": "\u0905\u092e\u0930\u0938\u093f\u0902\u0939 \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Balaram KC",
+                            "nameNp": "\u092c\u0932\u0930\u093e\u092e \u0915\u0947.\u0938\u0940.",
+                            "email": "amarsingh@sanimabank.com",
+                            "managerPhone": "9846025142",
+                            "phone": null,
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    },
+                    {
+                        "id": "1223f8a1-9c59-4c21-8e6b-ffe277c88616",
+                        "title": "Anamnagar Extension Counter",
+                        "title_np": "\u0905\u0928\u093e\u092e\u0928\u0917\u0930 \u090f\u0915\u094d\u0938\u091f\u0947\u0928\u094d\u0938\u0928 \u0915\u093e\u0909\u0928\u094d\u091f\u0930",
+                        "telephone": "00977-1-5705391",
+                        "fax": null,
+                        "code": "93",
+                        "latitude": "27.695765",
+                        "longitude": "85.328104",
+                        "plusCode": null,
+                        "address": "Singhadurbar, Purbi Gate, Kathmandu-29, Kathmandu",
+                        "address_np": "\u0938\u093f\u0902\u0939\u0926\u0930\u092c\u093e\u0930, \u092a\u0941\u0930\u094d\u0935\u0940 \u0917\u0947\u091f, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902-\u0968\u096f, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec3",
+                            "title": "Bagmati Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u0969",
+                            "code": 3
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4bf9",
+                            "title": "Kathmandu",
+                            "titleNp": "\n\u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902 ",
+                            "code": 27,
+                            "categoryId": "e142aa7f-d275-43cf-87a7-503872a9274a"
+                        },
+                        "email": "Anamnagar@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "e142aa7f-d275-43cf-87a7-503872a9274a",
+                            "systemName": "inside_valley",
+                            "displayName": "Inside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092d\u093f\u0924\u094d\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "86087918-8005-4c70-b70b-a6196fcc9345",
+                            "branch": {
+                                "id": "1223f8a1-9c59-4c21-8e6b-ffe277c88616",
+                                "title": "Anamnagar Extension Counter",
+                                "titleNp": "\u0905\u0928\u093e\u092e\u0928\u0917\u0930 \u090f\u0915\u094d\u0938\u091f\u0947\u0928\u094d\u0938\u0928 \u0915\u093e\u0909\u0928\u094d\u091f\u0930"
+                            },
+                            "name": "Rohit Karki",
+                            "nameNp": "\u0930\u094b\u0939\u093f\u0924 \u0915\u093e\u0930\u094d\u0915\u0940",
+                            "email": "Anamnagar@sanimabank.com",
+                            "managerPhone": "9860000234",
+                            "phone": "977-1-5705391",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    },
+                    {
+                        "id": "e2e217ed-b8e1-4578-a3c9-58b38bd9a062",
+                        "title": "Attariya Branch",
+                        "title_np": "\u0905\u0924\u094d\u0924\u0930\u093f\u092f\u093e \u0936\u093e\u0916\u093e",
+                        "telephone": "00977-91-590236\/33",
+                        "fax": null,
+                        "code": "129",
+                        "latitude": "28.811192",
+                        "longitude": "80.55315",
+                        "plusCode": null,
+                        "address": "Dhangadhi road, Godawari-1, Attariya, Kailali",
+                        "address_np": "\u0927\u0928\u0917\u0922\u0940 \u0930\u094b\u0921, \u0917\u094b\u0926\u093e\u0935\u0930\u0940-\u0967, \u0905\u0924\u094d\u0924\u0930\u093f\u092f\u093e, \u0915\u0948\u0932\u093e\u0932\u0940",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec7",
+                            "title": "Sudurpaschim Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u096d",
+                            "code": 7
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4c29",
+                            "title": "Kailali",
+                            "titleNp": "\n\n\u0915\u0948\u0932\u093e\u0932\u0940",
+                            "code": 76,
+                            "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+                        },
+                        "email": "attariya@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-rb285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+                            "systemName": "outside_valley",
+                            "displayName": "Outside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "c5638a28-3f3b-4e67-aae1-45557df5aff8",
+                            "branch": {
+                                "id": "e2e217ed-b8e1-4578-a3c9-58b38bd9a062",
+                                "title": "Attariya Branch",
+                                "titleNp": "\u0905\u0924\u094d\u0924\u0930\u093f\u092f\u093e \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Mahendra Chand",
+                            "nameNp": "\u092e\u0939\u0947\u0928\u094d\u0926\u094d\u0930 \u091a\u0928\u094d\u0926",
+                            "email": "attariya@sanimabank.com",
+                            "managerPhone": "9848432325",
+                            "phone": "977-91-590236\/33",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    }
+            {
+              
+                    {
+                        "id": "bd815d62-8c08-4989-9370-3c8354660af3",
+                        "title": "Bagar Branch",
+                        "title_np": "\u092c\u0917\u0930 \u0936\u093e\u0916\u093e",
+                        "telephone": "00977-61-553635\/6\/7",
+                        "fax": null,
+                        "code": "50",
+                        "latitude": "28.240682",
+                        "longitude": "83.988189",
+                        "plusCode": null,
+                        "address": "Bagar, Pokhara-1, Kaski",
+                        "address_np": "\u092c\u0917\u0930, \u092a\u094b\u0916\u0930\u093e\u2013\u0967, \u0915\u093e\u0938\u094d\u0915\u0940",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec4",
+                            "title": "Gandaki Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u096a",
+                            "code": 4
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4c05",
+                            "title": "Kaski",
+                            "titleNp": "\n\u0915\u093e\u0938\u094d\u0915\u0940",
+                            "code": 38,
+                            "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+                        },
+                        "email": "bagar@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+                            "systemName": "outside_valley",
+                            "displayName": "Outside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "c2255a61-4335-4082-9475-0a21bde2c306",
+                            "branch": {
+                                "id": "bd815d62-8c08-4989-9370-3c8354660af3",
+                                "title": "Bagar Branch",
+                                "titleNp": "\u092c\u0917\u0930 \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Prakash Paudel",
+                            "nameNp": "\u092a\u094d\u0930\u0915\u093e\u0936 \u092a\u094c\u0921\u0947\u0932",
+                            "email": "bagar@sanimabank.com",
+                            "managerPhone": "9846261802",
+                            "phone": "977-61-553635\/6\/7",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    },
+                    {
+                        "id": "36c9e09a-81b7-4e21-bc35-c3fed188f984",
+                        "title": "Bagmati Branch",
+                        "title_np": "\u092c\u093e\u0917\u094d\u092e\u0924\u0940 \u0936\u093e\u0916\u093e",
+                        "telephone": "00977- 1 -5970233",
+                        "fax": null,
+                        "code": "62",
+                        "latitude": "27.320856",
+                        "longitude": "85.411121",
+                        "plusCode": null,
+                        "address": "Bagmati-4, Makwanpur",
+                        "address_np": "\u092c\u093e\u0917\u094d\u092e\u0924\u0940\u2013\u096a, \u092e\u0915\u0935\u093e\u0928\u092a\u0942\u0930",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec3",
+                            "title": "Bagmati Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u0969",
+                            "code": 3
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4bff",
+                            "title": "Makwanpur",
+                            "titleNp": "\n\u092e\u0915\u0935\u093e\u0928\u092a\u0941\u0930",
+                            "code": 30,
+                            "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+                        },
+                        "email": "Bagmati@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+                            "systemName": "outside_valley",
+                            "displayName": "Outside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "103e9aad-2f51-4406-9ea1-d27c9ddc6b75",
+                            "branch": {
+                                "id": "36c9e09a-81b7-4e21-bc35-c3fed188f984",
+                                "title": "Bagmati Branch",
+                                "titleNp": "\u092c\u093e\u0917\u094d\u092e\u0924\u0940 \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Chewan Kumar Shrestha",
+                            "nameNp": null,
+                            "email": "Bagmati@sanimabank.com",
+                            "managerPhone": "9852041092",
+                            "phone": "9852041092",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    }
+            },
+            {
+                    {
+                        "id": "f1ae5a2b-780f-495f-b2f5-4b127a634310",
+                        "title": "Thimi Branch",
+                        "title_np": "\u0925\u093f\u092e\u0940 \u0936\u093e\u0916\u093e",
+                        "telephone": "00977-1-5913371\/72\/73\/74",
+                        "fax": null,
+                        "code": "21",
+                        "latitude": "27.67616",
+                        "longitude": "85.381679",
+                        "plusCode": null,
+                        "address": "Madhyapur Thimi-4, Bhaktapur",
+                        "address_np": "\u092e\u0927\u094d\u092f\u092a\u0941\u0930 \u0925\u093f\u092e\u0940\u2013\u096a, \u092d\u0915\u094d\u0924\u092a\u0941\u0930",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec3",
+                            "title": "Bagmati Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u0969",
+                            "code": 3
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4bfa",
+                            "title": "Bhaktapur",
+                            "titleNp": "\n\u092d\u0915\u094d\u0924\u092a\u0941\u0930",
+                            "code": 28,
+                            "categoryId": "e142aa7f-d275-43cf-87a7-503872a9274a"
+                        },
+                        "email": "thimi@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "e142aa7f-d275-43cf-87a7-503872a9274a",
+                            "systemName": "inside_valley",
+                            "displayName": "Inside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092d\u093f\u0924\u094d\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "941b0937-4650-4e90-b803-fae54740fc0b",
+                            "branch": {
+                                "id": "f1ae5a2b-780f-495f-b2f5-4b127a634310",
+                                "title": "Thimi Branch",
+                                "titleNp": "\u0925\u093f\u092e\u0940 \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Nani Ram Kafle",
+                            "nameNp": "\u0928\u093e\u0928\u0940 \u0930\u093e\u092e \u0915\u093e\u092b\u094d\u0932\u0947",
+                            "email": "thimi@sanimabank.com",
+                            "managerPhone": "9851200086",
+                            "phone": "977-1-5913371\/72\/73\/74",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    },
+                    {
+                        "id": "35ef4cee-dead-4e4b-a446-6007f68c98cf",
+                        "title": "Tikapur Branch",
+                        "title_np": "\u091f\u093f\u0915\u093e\u092a\u0941\u0930 \u0936\u093e\u0916\u093e",
+                        "telephone": "00977 -91-561000",
+                        "fax": null,
+                        "code": "55",
+                        "latitude": "28.528611",
+                        "longitude": "81.118333",
+                        "plusCode": null,
+                        "address": "Tikapur-1, Kailali",
+                        "address_np": "\u091f\u093f\u0915\u093e\u092a\u0941\u0930\u2013\u0967, \u0915\u0948\u0932\u093e\u0932\u0940",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec7",
+                            "title": "Sudurpaschim Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u096d",
+                            "code": 7
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4c29",
+                            "title": "Kailali",
+                            "titleNp": "\n\n\u0915\u0948\u0932\u093e\u0932\u0940",
+                            "code": 76,
+                            "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+                        },
+                        "email": "Tikapur@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+                            "systemName": "outside_valley",
+                            "displayName": "Outside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "86d4f616-796d-48ab-b673-960419af2a2c",
+                            "branch": {
+                                "id": "35ef4cee-dead-4e4b-a446-6007f68c98cf",
+                                "title": "Tikapur Branch",
+                                "titleNp": "\u091f\u093f\u0915\u093e\u092a\u0941\u0930 \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Keshav Datt Pant",
+                            "nameNp": "\u0915\u0947\u0936\u0935 \u0926\u0924\u094d\u0924 \u092a\u0928\u094d\u0924",
+                            "email": "Tikapur@sanimabank.com",
+                            "managerPhone": "+977-9851180616",
+                            "phone": "977-91-561000",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    },
+                    {
+                        "id": "853941c8-83f6-46ef-bbc1-ce3c48287c38",
+                        "title": "Timure Branch",
+                        "title_np": "\u091f\u093f\u092e\u0941\u0930\u0947 \u0936\u093e\u0916\u093e",
+                        "telephone": "00977-10-543070 \/ 71",
+                        "fax": null,
+                        "code": "45",
+                        "latitude": "28.252037",
+                        "longitude": "85.366064",
+                        "plusCode": null,
+                        "address": "Timure, Gosainkunda-2, Rasuwa",
+                        "address_np": "\u091f\u093f\u092e\u0941\u0930\u0947, \u0917\u094b\u0938\u093e\u0907\u0901\u0915\u0941\u0923\u094d\u0921\u2013\u0968, \u0930\u0938\u0941\u0935\u093e",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec3",
+                            "title": "Bagmati Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u0969",
+                            "code": 3
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4bf6",
+                            "title": "Rasuwa",
+                            "titleNp": "\n\u0930\u0938\u0941\u0935\u093e",
+                            "code": 33,
+                            "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+                        },
+                        "email": "timure@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+                            "systemName": "outside_valley",
+                            "displayName": "Outside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "226b82e8-757f-4cd7-b4fe-5d8566f7aed3",
+                            "branch": {
+                                "id": "853941c8-83f6-46ef-bbc1-ce3c48287c38",
+                                "title": "Timure Branch",
+                                "titleNp": "\u091f\u093f\u092e\u0941\u0930\u0947 \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Nirajan Shrestha",
+                            "nameNp": "\u0928\u093f\u0930\u093e\u091c\u0928 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+                            "email": "timure@sanimabank.com",
+                            "managerPhone": "9851254958",
+                            "phone": "977-10-543070 \/ 71",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    },
+                    {
+                        "id": "36841e75-c618-4b05-98e8-1be0d42fe532",
+                        "title": "Tokha Extension Counter",
+                        "title_np": "\u091f\u094b\u0916\u093e \u090f\u0915\u094d\u0938\u091f\u0947\u0928\u094d\u0938\u0928 \u0915\u093e\u0909\u0928\u094d\u091f\u0930",
+                        "telephone": "00977-1-5159258\/56\/80",
+                        "fax": null,
+                        "code": "1234",
+                        "latitude": "27.75298",
+                        "longitude": "85.32691",
+                        "plusCode": null,
+                        "address": "Tokha-6, Kathmandu",
+                        "address_np": "\u091f\u094b\u0916\u093e\u2013\u096c, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec3",
+                            "title": "Bagmati Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u0969",
+                            "code": 3
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4bf9",
+                            "title": "Kathmandu",
+                            "titleNp": "\n\u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902 ",
+                            "code": 27,
+                            "categoryId": "e142aa7f-d275-43cf-87a7-503872a9274a"
+                        },
+                        "email": "tokha@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "e142aa7f-d275-43cf-87a7-503872a9274a",
+                            "systemName": "inside_valley",
+                            "displayName": "Inside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092d\u093f\u0924\u094d\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "b7226097-3cef-4e77-992f-fae11cf635c6",
+                            "branch": {
+                                "id": "36841e75-c618-4b05-98e8-1be0d42fe532",
+                                "title": "Tokha Extension Counter",
+                                "titleNp": "\u091f\u094b\u0916\u093e \u090f\u0915\u094d\u0938\u091f\u0947\u0928\u094d\u0938\u0928 \u0915\u093e\u0909\u0928\u094d\u091f\u0930"
+                            },
+                            "name": "Lalit Man Tamang",
+                            "nameNp": null,
+                            "email": "tokha@sanimabank.com",
+                            "managerPhone": "9841150754",
+                            "phone": "977-1-5159258\/56\/80",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    },
+                    {
+                        "id": "32069b8a-2f00-4501-92bd-44c42ab69555",
+                        "title": "Tulsipur Branch",
+                        "title_np": "\u0924\u0941\u0932\u0938\u0940\u092a\u0941\u0930 \u0936\u093e Gorbachev",
+                        "telephone": "00977-82-523416",
+                        "fax": null,
+                        "code": "51",
+                        "latitude": "28.13",
+                        "longitude": "82.29",
+                        "plusCode": null,
+                        "address": "Tulsipur-5, Dang",
+                        "address_np": "\u0924\u0941\u0932\u0938\u0940\u092a\u0941\u0930\u2013\u096b, \u0926\u093e\u0919",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec5",
+                            "title": "Lumbini Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u096b",
+                            "code": 5
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4c15",
+                            "title": "Dang",
+                            "titleNp": "\n\u0926\u093e\u0919",
+                            "code": 50,
+                            "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+                        },
+                        "email": "tulsipur@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+                            "systemName": "outside_valley",
+                            "displayName": "Outside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "8b3c7868-5a0a-4381-b9d8-52f4de1fa632",
+                            "branch": {
+                                "id": "32069b8a-2f00-4501-92bd-44c42ab69555",
+                                "title": "Tulsipur Branch",
+                                "titleNp": "\u0924\u0941\u0932\u0938\u0940\u092a\u0941\u0930 \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Pranil Bhusal",
+                            "nameNp": "\u092a\u094d\u0930\u0923\u093f\u0932 \u092d\u0941\u0938\u093e\u0932",
+                            "email": "tulsipur@sanimabank.com",
+                            "managerPhone": "9851254499",
+                            "phone": "977-82-523416",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    }
+
+                    {
+                        "id": "9862f00e-3ec7-490b-9f51-7d842e690739",
+                        "title": "Udayapurgadhi Branch",
+                        "title_np": "\u0909\u0926\u092f\u092a\u0941\u0930\u0917\u0922\u0940 \u0936\u093e\u0916\u093e",
+                        "telephone": "00977- 1- 5970233",
+                        "fax": null,
+                        "code": "67",
+                        "latitude": "26.906883",
+                        "longitude": "86.538096",
+                        "plusCode": null,
+                        "address": "Udayapurgadhi-6, Udayapur",
+                        "address_np": "\u0909\u0926\u092f\u092a\u0941\u0930\u0917\u0922\u0940\u2013\u096c, \u0909\u0926\u092f\u092a\u0941\u0930",
+                        "hide_in_website": false,
+                        "province": {
+                            "id": "6874dd29a54e11ddb86c4ec1",
+                            "title": "Koshi Pradesh",
+                            "titleNp": "\u092a\u094d\u0930\u0926\u0947\u0936 \u0967",
+                            "code": 1
+                        },
+                        "district": {
+                            "id": "6874ba8099fdd3150d6c4beb",
+                            "title": "Udayapur",
+                            "titleNp": "\n\u0909\u0926\u092f\u092a\u0941\u0930",
+                            "code": 14,
+                            "categoryId": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299"
+                        },
+                        "email": "Udayapurgadhi@sanimabank.com",
+                        "extended_hour": {
+                            "id": "cfc6e6ad-73cc-4f16-a882-a02b723b285b",
+                            "system_name": "no",
+                            "display_name": "No"
+                        },
+                        "opening_time": null,
+                        "closing_time": null,
+                        "description": null,
+                        "description_np": null,
+                        "status": true,
+                        "qos": null,
+                        "cash_counter": false,
+                        "upcoming_branch": false,
+                        "branch_category": {
+                            "id": "41b97fbb-e252-4210-9ab4-8ac9eaa1f299",
+                            "systemName": "outside_valley",
+                            "displayName": "Outside Valley",
+                            "displayNameNp": "\u0909\u092a\u0924\u094d\u092f\u0915\u093e \u092c\u093e\u0939\u093f\u0930",
+                            "order": null
+                        },
+                        "category": {
+                            "id": "63805dfb-cdbe-4dcd-ae36-bd8a447c51c2",
+                            "name": "Branch",
+                            "nameNp": "\u092c\u0948\u0902\u0915 \u0938\u0947\u0935\u093e \u0938\u0942\u091a\u0928\u093e\u0939\u0930\u0942",
+                            "slug": "branch",
+                            "typeId": {
+                                "id": "be239376-c58e-44b0-879e-5f9d6dd11f14",
+                                "system_name": "branch",
+                                "display_name": "Branch"
+                            },
+                            "image": null,
+                            "order": 2,
+                            "status": true
+                        },
+                        "branch_manager": {
+                            "id": "c0a9e1e7-5b3e-4e6c-a7f7-2b3e4f9c6a1b",
+                            "branch": {
+                                "id": "9862f00e-3ec7-490b-9f51-7d842e690739",
+                                "title": "Udayapurgadhi Branch",
+                                "titleNp": "\u0909\u0926\u092f\u092a\u0941\u0930\u0917\u0922\u0940 \u0936\u093e\u0916\u093e"
+                            },
+                            "name": "Ram Kumar Chaudhary",
+                            "nameNp": "\u0930\u093e\u092e \u0915\u0941\u092e\u093e\u0930 \u091a\u094c\u0927\u0930\u0940",
+                            "email": "Udayapurgadhi@sanimabank.com",
+                            "managerPhone": "9842823456",
+                            "phone": "977-1-5970233",
+                            "branchManagerImage": null,
+                            "status": true,
+                            "hideInWebsite": false,
+                            "isBranchManager": true
+                        },
+                        "operation_incharge": null,
+                        "iframe": null
+                    }
+            }

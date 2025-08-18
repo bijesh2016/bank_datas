@@ -1,0 +1,2312 @@
+[
+    {
+        "id": 322,
+        "lang_id": 1,
+        "branch_title": "Aabukhaireni Branch",
+        "slug": "aabukhaireni-branch",
+        "address": "Aabukhaireni - 1, Tanahun",
+        "ward_no": null,
+        "email": "atit.gurung@nmb.com.np",
+        "phone": "977-65-540661/2",
+        "mobile": "9856040737",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 49,
+            "lang_id": 1,
+            "dist_title": "Tanahu",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.90139",
+        "lng": "84.536591",
+        "fullname": "Atit Krishna Gurung",
+        "url": "aabukhaireni-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-aabukhaireni-branch_1686812534.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 420,
+        "lang_id": 1,
+        "branch_title": "Aathbiskot Branch",
+        "slug": "aathbiskot-branch",
+        "address": "Radijyula, Near New Ward Office- 09, Radi Bazaar",
+        "ward_no": null,
+        "email": "bibash.ghimire@nmb.com.np",
+        "phone": "088-594055",
+        "mobile": "9842249794",
+        "fax": null,
+        "province": {
+            "id": 6,
+            "lang_id": 1,
+            "title": "Karnali Province"
+        },
+        "district": {
+            "id": 77,
+            "lang_id": 1,
+            "dist_title": "Western Rukum District",
+            "province": {
+                "id": 6,
+                "lang_id": 1,
+                "title": "Karnali Province"
+            }
+        },
+        "inside_valley": "outside",
+        "map_url": null,
+        "lat": null,
+        "lng": null,
+        "fullname": "Bibash Ghimire",
+        "url": "aathbiskot-branch",
+        "qr_code": null,
+        "created_date": "Jan 27, 2025"
+    },
+    {
+        "id": 258,
+        "lang_id": 1,
+        "branch_title": "Amarsingh Branch",
+        "slug": "amarsingh-branch",
+        "address": "Amarsingh Chowk - 10, Pokhara",
+        "ward_no": null,
+        "email": "balram.giri@nmb.com.np",
+        "phone": "977-61-435150/1",
+        "mobile": "9851241147",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 45,
+            "lang_id": 1,
+            "dist_title": "Kaski",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.204425",
+        "lng": "84.001344",
+        "fullname": "Bal Ram Giri",
+        "url": "amarsingh-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/08/qr-code-1_1693200805.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 298,
+        "lang_id": 1,
+        "branch_title": "Arughat Branch",
+        "slug": "arughat-branch",
+        "address": "Aarughat - 1, Gorkha",
+        "ward_no": null,
+        "email": "gyanendra.shrestha@nmb.com.np",
+        "phone": "977-64-410095/96",
+        "mobile": "9846264227",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 44,
+            "lang_id": 1,
+            "dist_title": "Gorkha",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.046688",
+        "lng": "84.812856",
+        "fullname": "Gyanendra Shrestha",
+        "url": "arughat-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-arughat-branch_1686804695.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 14,
+        "lang_id": 1,
+        "branch_title": "Aryabhanjyang Branch",
+        "slug": "aryabhanjyang-branch",
+        "address": "Baganaskali, Aryabhanjyang",
+        "ward_no": null,
+        "email": "nagendra.poudel@nmb.com.np",
+        "phone": "977-75-402037",
+        "mobile": "9857029190",
+        "fax": null,
+        "province": {
+            "id": 5,
+            "lang_id": 1,
+            "title": "Lumbini Province"
+        },
+        "district": {
+            "id": 60,
+            "lang_id": 1,
+            "dist_title": "Palpa",
+            "province": {
+                "id": 5,
+                "lang_id": 1,
+                "title": "Lumbini Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": "https://goo.gl/maps/znNtVG9tKiv2o5zA8",
+        "lat": "27.849565",
+        "lng": "83.618733",
+        "fullname": "Nagendra Prasad Poudel",
+        "url": "aryabhanjyang-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-aryabhanjyang-branch_1686717044.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 330,
+        "lang_id": 1,
+        "branch_title": "Attariya Branch",
+        "slug": "attariya-branch",
+        "address": "Dhangadi Road",
+        "ward_no": null,
+        "email": "subodh.pandey@nmb.com.np",
+        "phone": "977-91-551142/143",
+        "mobile": "9858422053",
+        "fax": null,
+        "province": {
+            "id": 7,
+            "lang_id": 1,
+            "title": "Sudurpashchim Province"
+        },
+        "district": {
+            "id": 66,
+            "lang_id": 1,
+            "dist_title": "Kailali",
+            "province": {
+                "id": 7,
+                "lang_id": 1,
+                "title": "Sudurpashchim Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.812939",
+        "lng": "80.552033",
+        "fullname": "Subodh Pandey",
+        "url": "attariya-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-attariya-branch_1686812715.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 204,
+        "lang_id": 1,
+        "branch_title": "Aurahi Branch",
+        "slug": "aurahi-branch",
+        "address": "Aurahi-5, Siraha",
+        "ward_no": null,
+        "email": "rabindra.yadav@nmb.com.np",
+        "phone": "977-9862835476/9805929918",
+        "mobile": "9862835476",
+        "fax": null,
+        "province": {
+            "id": 2,
+            "lang_id": 1,
+            "title": "Madhesh Province"
+        },
+        "district": {
+            "id": 52,
+            "lang_id": 1,
+            "dist_title": "Mahottari",
+            "province": {
+                "id": 2,
+                "lang_id": 1,
+                "title": "Madhesh Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "26.629109",
+        "lng": "86.30101",
+        "fullname": "Rabindra Kumar Yadav",
+        "url": "aurahi-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-aurahi-branch_1686740589.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 16,
+        "lang_id": 1,
+        "branch_title": "Babarmahal Branch",
+        "slug": "babarmahal-branch",
+        "address": "Babarmahal - 11, Kathmandu",
+        "ward_no": null,
+        "email": "bibhuti.kc@nmb.com.np",
+        "phone": "977-1-5346160",
+        "mobile": "9851139321",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.692611",
+        "lng": "85.326211",
+        "fullname": "Bibhuti KC",
+        "url": "babarmahal-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2024/01/babarmahal-phone-no-qr_1704688747.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 256,
+        "lang_id": 1,
+        "branch_title": "Bagar Branch",
+        "slug": "bagar-branch",
+        "address": "Taxi Chowk, Bagar - 1, Pokhara",
+        "ward_no": null,
+        "email": "saraswati.gurung@nmb.com.np",
+        "phone": "977-61-581329/46",
+        "mobile": "9846047796",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 45,
+            "lang_id": 1,
+            "dist_title": "Kaski",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.239828",
+        "lng": "83.988294",
+        "fullname": "Saraswati Gurung",
+        "url": "bagar-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2024/07/qr-code-1_1720501437.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 228,
+        "lang_id": 1,
+        "branch_title": "Bagdurbar Branch",
+        "slug": "bagdurbar-branch",
+        "address": "Bagdurbar - 11 , Kathmandu",
+        "ward_no": null,
+        "email": "keshab.regmi@nmb.com.np",
+        "phone": "977-01-5315657, 01-5914551, 01-5356136, 01-5315551",
+        "mobile": "9856040499",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.698081",
+        "lng": "85.3117846",
+        "fullname": "Keshab Regmi",
+        "url": "bagdurbar-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bagdurbar-branch_1686802739.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 276,
+        "lang_id": 1,
+        "branch_title": "Baglung Branch",
+        "slug": "baglung-branch",
+        "address": "Mahendrapath - 2, Baglung",
+        "ward_no": null,
+        "email": "ashok.kc@nmb.com.np",
+        "phone": "977-68-522960",
+        "mobile": "9856035646",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 72,
+            "lang_id": 1,
+            "dist_title": "Baglung",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.266869",
+        "lng": "83.600741",
+        "fullname": "Ashok K.C.",
+        "url": "baglung-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-baglung-branch_1686803949.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 76,
+        "lang_id": 1,
+        "branch_title": "Baitadi Branch",
+        "slug": "baitadi-branch",
+        "address": "Dashrath Chand Municipality-04",
+        "ward_no": null,
+        "email": "deepakraj.joshi@nmb.com.np",
+        "phone": "977-95-520097",
+        "mobile": "9848591536",
+        "fax": null,
+        "province": {
+            "id": 7,
+            "lang_id": 1,
+            "title": "Sudurpashchim Province"
+        },
+        "district": {
+            "id": 40,
+            "lang_id": 1,
+            "dist_title": "Baitadi",
+            "province": {
+                "id": 7,
+                "lang_id": 1,
+                "title": "Sudurpashchim Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": null,
+        "lng": null,
+        "fullname": "Deepak Raj Joshi",
+        "url": "baitadi-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-baitadi-branch_1686719372.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 406,
+        "lang_id": 1,
+        "branch_title": "Balaju Branch",
+        "slug": "balaju-branch",
+        "address": "Balaju Chowk- 16, Kathmandu",
+        "ward_no": null,
+        "email": "sunil.bhattarai@nmb.com.np",
+        "phone": "977-1-5903126/127",
+        "mobile": "9857037908",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.727288",
+        "lng": "85.304206",
+        "fullname": "Sunil Bhattarai",
+        "url": "balaju-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-balaju-branch_1686817059.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 364,
+        "lang_id": 1,
+        "branch_title": "Balkhu Branch",
+        "slug": "balkhu-branch",
+        "address": "Balkhu, Kathmandu",
+        "ward_no": null,
+        "email": "kamala.adhikari@nmb.com.np",
+        "phone": "977-1-5381298/3139",
+        "mobile": "9851069842",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": null,
+        "lng": null,
+        "fullname": "Kamala Adhikari Poudel",
+        "url": "balkhu-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2024/04/balkhu_1712644463.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 282,
+        "lang_id": 1,
+        "branch_title": "Bandipur Branch",
+        "slug": "bandipur-branch",
+        "address": "Mohriya, Bandipur",
+        "ward_no": null,
+        "email": "nirmal.subedi@nmb.com.np",
+        "phone": "977-65-520180",
+        "mobile": "9856053054",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 49,
+            "lang_id": 1,
+            "dist_title": "Tanahu",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.937388",
+        "lng": "84.40476",
+        "fullname": "Nirmal Subedi",
+        "url": "bandipur-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bandipur-branch_1686804165.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 18,
+        "lang_id": 1,
+        "branch_title": "Banepa Branch",
+        "slug": "banepa-branch",
+        "address": "Tindobato, Opposite to the Police Station",
+        "ward_no": null,
+        "email": "rabindra.sigdel@nmb.com.np",
+        "phone": "977-11- 660771",
+        "mobile": "9841313864",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 13,
+            "lang_id": 1,
+            "dist_title": "Kavrepalanchok",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.631694",
+        "lng": "85.515636",
+        "fullname": "Rabindra Sigdel",
+        "url": "banepa-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-banepa-branch_1686717137.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 240,
+        "lang_id": 1,
+        "branch_title": "Baneshwor Branch",
+        "slug": "baneshwor-branch",
+        "address": "Baneshwor - 10, Kathmandu",
+        "ward_no": null,
+        "email": "pramod.sharma@nmb.com.np",
+        "phone": "977-1-4796393/448",
+        "mobile": "9852048530",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.688333",
+        "lng": "85.33398",
+        "fullname": "Pramod Sharma Upreti",
+        "url": "baneshwor-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-baneshwor-branch_1686802987.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 20,
+        "lang_id": 1,
+        "branch_title": "Bangain Branch",
+        "slug": "bangain-branch",
+        "address": "Bangain, Banganga-13",
+        "ward_no": null,
+        "email": "lalbahadur.bhandari@nmb.com.np",
+        "phone": "977-76-411021",
+        "mobile": "9857014699",
+        "fax": null,
+        "province": {
+            "id": 5,
+            "lang_id": 1,
+            "title": "Lumbini Province"
+        },
+        "district": {
+            "id": 58,
+            "lang_id": 1,
+            "dist_title": "Kapilvastu",
+            "province": {
+                "id": 5,
+                "lang_id": 1,
+                "title": "Lumbini Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.681064",
+        "lng": "83.13038",
+        "fullname": "Lal Bahadur Bhandari",
+        "url": "bangain-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bangain-branch_1686717154.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 392,
+        "lang_id": 1,
+        "branch_title": "Barathahawa Branch",
+        "slug": "barathwa-branch",
+        "address": "Barathahawa -7",
+        "ward_no": null,
+        "email": "bibek.jha@nmb.com.np",
+        "phone": "977-46-540197",
+        "mobile": "9854049186",
+        "fax": null,
+        "province": {
+            "id": 2,
+            "lang_id": 1,
+            "title": "Madhesh Province"
+        },
+        "district": {
+            "id": 54,
+            "lang_id": 1,
+            "dist_title": "Sarlahi",
+            "province": {
+                "id": 2,
+                "lang_id": 1,
+                "title": "Madhesh Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "26.997566",
+        "lng": "85.464621",
+        "fullname": "Bibek Jha",
+        "url": "barathwa-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-barathwa-branch_1686816857.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 310,
+        "lang_id": 1,
+        "branch_title": "Bardaghat Branch",
+        "slug": "bardaghat-branch",
+        "address": "Bardaghat-4, Nawalparasi West",
+        "ward_no": null,
+        "email": "ram.bharati@nmb.com.np",
+        "phone": "977-78-580198/397",
+        "mobile": "9857042489/9847047489",
+        "fax": null,
+        "province": {
+            "id": 5,
+            "lang_id": 1,
+            "title": "Lumbini Province"
+        },
+        "district": {
+            "id": 76,
+            "lang_id": 1,
+            "dist_title": "Parasi District",
+            "province": {
+                "id": 5,
+                "lang_id": 1,
+                "title": "Lumbini Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.556679",
+        "lng": "83.789711",
+        "fullname": "Ram Kumar Bharati",
+        "url": "bardaghat-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bardaghat-branch_1686806442.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 22,
+        "lang_id": 1,
+        "branch_title": "Bardibas Branch",
+        "slug": "bardibas-branch",
+        "address": "Bardibas Chowk-4",
+        "ward_no": null,
+        "email": "aditya.bhattarai@nmb.com.np",
+        "phone": "977-44-550114",
+        "mobile": "9855038219",
+        "fax": null,
+        "province": {
+            "id": 2,
+            "lang_id": 1,
+            "title": "Madhesh Province"
+        },
+        "district": {
+            "id": 52,
+            "lang_id": 1,
+            "dist_title": "Mahottari",
+            "province": {
+                "id": 2,
+                "lang_id": 1,
+                "title": "Madhesh Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "26.989697",
+        "lng": "85.893499",
+        "fullname": "Aditya Bhattarai",
+        "url": "bardibas-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bardibas-branch_1686717172.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 24,
+        "lang_id": 1,
+        "branch_title": "Basundhara Branch",
+        "slug": "basundhara-branch",
+        "address": "Basundhara Chowk, Near Ishan Hospital",
+        "ward_no": null,
+        "email": "sanjeev.gautam@nmb.com.np",
+        "phone": "977-1-4989935 / 4970641",
+        "mobile": "9851040721",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.742453",
+        "lng": "85.332392",
+        "fullname": "Sanjeev Gautam",
+        "url": "basundhara-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2024/01/qr-code_1704364375.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 26,
+        "lang_id": 1,
+        "branch_title": "Bateshwor Branch",
+        "slug": "bateshwor-branch",
+        "address": "Bateshwor-4, Dhanusa",
+        "ward_no": null,
+        "email": "arvinda.shah@nmb.com.np",
+        "phone": "+977-9766321361",
+        "mobile": "9849096386",
+        "fax": null,
+        "province": {
+            "id": 2,
+            "lang_id": 1,
+            "title": "Madhesh Province"
+        },
+        "district": {
+            "id": 50,
+            "lang_id": 1,
+            "dist_title": "Dhanusa",
+            "province": {
+                "id": 2,
+                "lang_id": 1,
+                "title": "Madhesh Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "26.879337",
+        "lng": "85.924144",
+        "fullname": "Arvinda Kumar Sudha Shah",
+        "url": "bateshwor-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bateshwor-branch_1686717218.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 362,
+        "lang_id": 1,
+        "branch_title": "Battar Branch",
+        "slug": "battar-branch",
+        "address": "Battar, Nuwakot",
+        "ward_no": null,
+        "email": "jeevan.bogati@nmb.com.np",
+        "phone": "977-10-561210/211",
+        "mobile": "9851246838",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 15,
+            "lang_id": 1,
+            "dist_title": "Nuwakot",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": null,
+        "lng": null,
+        "fullname": "Jeevan Bogati",
+        "url": "battar-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-battar-branch_1686813848.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 344,
+        "lang_id": 1,
+        "branch_title": "Bauniya Branch",
+        "slug": "bauniya-branch",
+        "address": "Bardagoriya Gaunpalika -01, Sadakpur Bauniya Bazar, 31",
+        "ward_no": null,
+        "email": "sher.bista@nmb.com.np",
+        "phone": "977-91-404149",
+        "mobile": "9858752647",
+        "fax": null,
+        "province": {
+            "id": 7,
+            "lang_id": 1,
+            "title": "Sudurpashchim Province"
+        },
+        "district": {
+            "id": 66,
+            "lang_id": 1,
+            "dist_title": "Kailali",
+            "province": {
+                "id": 7,
+                "lang_id": 1,
+                "title": "Sudurpashchim Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.659268",
+        "lng": "81.046771",
+        "fullname": "Sher Bahadur Bista",
+        "url": "bauniya-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bauniya-branch_1686813299.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 340,
+        "lang_id": 1,
+        "branch_title": "Belauri Branch",
+        "slug": "belauri-branch",
+        "address": "Belauri Municipality -06, Belauri Bazar, Buspark, 33",
+        "ward_no": null,
+        "email": "ravindrabdr.chand@nmb.com.np",
+        "phone": "977-99-580412",
+        "mobile": "9848753521",
+        "fax": null,
+        "province": {
+            "id": 7,
+            "lang_id": 1,
+            "title": "Sudurpashchim Province"
+        },
+        "district": {
+            "id": 43,
+            "lang_id": 1,
+            "dist_title": "Kanchanpur",
+            "province": {
+                "id": 7,
+                "lang_id": 1,
+                "title": "Sudurpashchim Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": null,
+        "lng": null,
+        "fullname": "Ravindra Bahadur Chand",
+        "url": "belauri-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-belauri-branch_1686813209.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 28,
+        "lang_id": 1,
+        "branch_title": "Belbari Branch",
+        "slug": "belbari-branch",
+        "address": "Belbari Chowk",
+        "ward_no": null,
+        "email": "manish.ghimire@nmb.com.np",
+        "phone": "977-21-434391",
+        "mobile": "9842250380",
+        "fax": null,
+        "province": {
+            "id": 1,
+            "lang_id": 1,
+            "title": "Koshi Province"
+        },
+        "district": {
+            "id": 31,
+            "lang_id": 1,
+            "dist_title": "Morang",
+            "province": {
+                "id": 1,
+                "lang_id": 1,
+                "title": "Koshi Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "26.659602",
+        "lng": "87.411724",
+        "fullname": "Manish Ghimire",
+        "url": "belbari-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-belbari-branch_1686717233.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 202,
+        "lang_id": 1,
+        "branch_title": "Beldandi Branch",
+        "slug": "beldandi-branch",
+        "address": "Beldandi Rural Municipality-02, Chawanni Bazar, Kanchanpur",
+        "ward_no": null,
+        "email": "rajendra.karkee@nmb.com.np",
+        "phone": "+977-9801397749",
+        "mobile": "9801397754",
+        "fax": null,
+        "province": {
+            "id": 7,
+            "lang_id": 1,
+            "title": "Sudurpashchim Province"
+        },
+        "district": {
+            "id": 43,
+            "lang_id": 1,
+            "dist_title": "Kanchanpur",
+            "province": {
+                "id": 7,
+                "lang_id": 1,
+                "title": "Sudurpashchim Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.7897378",
+        "lng": "80.26096222222222",
+        "fullname": "Rajendra Singh Karkee",
+        "url": "beldandi-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2024/08/qr-code_1723548118.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 34,
+        "lang_id": 1,
+        "branch_title": "Beni Branch",
+        "slug": "beni-branch",
+        "address": "Beni - 8, Myagdi",
+        "ward_no": null,
+        "email": "dinesh.subedi@nmb.com.np",
+        "phone": "977-69-521282",
+        "mobile": "9847650189",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 74,
+            "lang_id": 1,
+            "dist_title": "Myagdi",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.345154",
+        "lng": "83.566587",
+        "fullname": "Dinesh Prasad Subedi",
+        "url": "beni-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-beni-branch_1686717304.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 284,
+        "lang_id": 1,
+        "branch_title": "Beshisahar Branch",
+        "slug": "beshisahar-branch",
+        "address": "Beshisahar - 10, Lamjung",
+        "ward_no": null,
+        "email": "girban.dhungana@nmb.com.np",
+        "phone": "977-66-520440/7",
+        "mobile": "9806555662",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 46,
+            "lang_id": 1,
+            "dist_title": "Lamjung",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.230579",
+        "lng": "84.37741",
+        "fullname": "Girban Dhungana",
+        "url": "beshisahar-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-beshisahar-branch_1686804326.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 288,
+        "lang_id": 1,
+        "branch_title": "Bhairabtole Branch",
+        "slug": "bhairabtole-branch",
+        "address": "Bhairabtole - 3, Pokhara",
+        "ward_no": null,
+        "email": "nischal.prajoo@nmb.com.np",
+        "phone": "977-61-537998",
+        "mobile": "9846031112",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 45,
+            "lang_id": 1,
+            "dist_title": "Kaski",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.233411",
+        "lng": "83.985693",
+        "fullname": "Nischal Prajoo",
+        "url": "bhairabtole-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bhairabtole-branch_1686804460.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 30,
+        "lang_id": 1,
+        "branch_title": "Bhairahawa Branch",
+        "slug": "bhairahawa-branch",
+        "address": "Nayasadak-7, Siddharthanagar",
+        "ward_no": null,
+        "email": "nabin.pandey@nmb.com.np",
+        "phone": "977-71-572287/ 288",
+        "mobile": "9851140157",
+        "fax": null,
+        "province": {
+            "id": 5,
+            "lang_id": 1,
+            "title": "Lumbini Province"
+        },
+        "district": {
+            "id": 61,
+            "lang_id": 1,
+            "dist_title": "Rupandehi",
+            "province": {
+                "id": 5,
+                "lang_id": 1,
+                "title": "Lumbini Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.508746",
+        "lng": "83.4552139",
+        "fullname": "Nabin Raj Pandey",
+        "url": "bhairahawa-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bhairahawa-branch_1686717257.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 32,
+        "lang_id": 1,
+        "branch_title": "Bhaktapur Branch",
+        "slug": "bhaktapur-branch",
+        "address": "Surya Binayak - 6, Bhaktapur",
+        "ward_no": null,
+        "email": "prakash.kasti@nmb.com.np",
+        "phone": "977-1-6617285/86",
+        "mobile": "9851156788",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 10,
+            "lang_id": 1,
+            "dist_title": "Bhaktapur",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.665453",
+        "lng": "85.424631",
+        "fullname": "Prakash Kasti",
+        "url": "bhaktapur-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bhaktapur-branch_1686717283.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 36,
+        "lang_id": 1,
+        "branch_title": "Bhalwari Branch",
+        "slug": "bhalwari-branch",
+        "address": "Bhalwari - 7, Tilotama",
+        "ward_no": null,
+        "email": "subarna.acharya@nmb.com.np",
+        "phone": "977-71-562718",
+        "mobile": "9847302076",
+        "fax": null,
+        "province": {
+            "id": 5,
+            "lang_id": 1,
+            "title": "Lumbini Province"
+        },
+        "district": {
+            "id": 61,
+            "lang_id": 1,
+            "dist_title": "Rupandehi",
+            "province": {
+                "id": 5,
+                "lang_id": 1,
+                "title": "Lumbini Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.601448",
+        "lng": "83.472572",
+        "fullname": "Subarna Acharya",
+        "url": "bhalwari-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bhalwari-branch_1686717331.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 410,
+        "lang_id": 1,
+        "branch_title": "Bhandara Branch",
+        "slug": "bhandara-branch",
+        "address": "Bhandara, Chitwan",
+        "ward_no": null,
+        "email": "udaya.paudel@nmb.com.np",
+        "phone": "977-56-550173/74",
+        "mobile": "9860800328",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 36,
+            "lang_id": 1,
+            "dist_title": "Chitwan",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.125549",
+        "lng": "84.385157",
+        "fullname": "Udaya Paudel",
+        "url": "bhandara-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bhandara-branch_1686817150.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 244,
+        "lang_id": 1,
+        "branch_title": "Bharatpur Branch",
+        "slug": "bharatpur-branch",
+        "address": "Malpot Chowk - 12, Chitwan",
+        "ward_no": null,
+        "email": "sunil.lamichhane@nmb.com.np",
+        "phone": "977-56-527257/287",
+        "mobile": "9843765689",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 36,
+            "lang_id": 1,
+            "dist_title": "Chitwan",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.6767998",
+        "lng": "84.4358902",
+        "fullname": "Sunil Lamichhane",
+        "url": "bharatpur-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bharatpur-branch_1686803047.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 262,
+        "lang_id": 1,
+        "branch_title": "Bhimad Branch",
+        "slug": "bhimad-branch",
+        "address": "Bhimad Bazar, Ratnachowk, Tanahun",
+        "ward_no": null,
+        "email": "santosh.kc@nmb.com.np",
+        "phone": "977-65-572200/572201",
+        "mobile": "9856050607",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 49,
+            "lang_id": 1,
+            "dist_title": "Tanahu",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.979734",
+        "lng": "84.081085",
+        "fullname": "Santosh Khatri Chhetri",
+        "url": "bhimad-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bhimad-branch_1686803668.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 38,
+        "lang_id": 1,
+        "branch_title": "Bhojpur Branch",
+        "slug": "bhojpur-branch",
+        "address": "Bank Road-7",
+        "ward_no": null,
+        "email": "sabita.dahal@nmb.com.np",
+        "phone": "977-29-420780/781",
+        "mobile": "9852028438",
+        "fax": null,
+        "province": {
+            "id": 1,
+            "lang_id": 1,
+            "title": "Koshi Province"
+        },
+        "district": {
+            "id": 29,
+            "lang_id": 1,
+            "dist_title": "Bhojpur",
+            "province": {
+                "id": 1,
+                "lang_id": 1,
+                "title": "Koshi Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": null,
+        "lng": null,
+        "fullname": "Sabita Dahal",
+        "url": "bhojpur-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-bhojpur-branch_1686717355.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 164,
+        "lang_id": 1,
+        "branch_title": "Pulchowk Branch",
+        "slug": "pulchowk-branch",
+        "address": "Pulchowk - 3, Kathmandu",
+        "ward_no": null,
+        "email": "jayaram.dhungana@nmb.com.np",
+        "phone": "977-1-5010634/35",
+        "mobile": "9843933571",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 14,
+            "lang_id": 1,
+            "dist_title": "Lalitpur",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.680838",
+        "lng": "85.317293",
+        "fullname": "Jayaram Dhungana",
+        "url": "pulchowk-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-pulchowk-branch_1686734569.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 336,
+        "lang_id": 1,
+        "branch_title": "Punarbash Branch",
+        "slug": "punarbash-branch",
+        "address": "Punarbash Municipality -06",
+        "ward_no": null,
+        "email": "kosh.joshi@nmb.com.np",
+        "phone": "977-99-560207",
+        "mobile": "9858427122",
+        "fax": null,
+        "province": {
+            "id": 7,
+            "lang_id": 1,
+            "title": "Sudurpashchim Province"
+        },
+        "district": {
+            "id": 43,
+            "lang_id": 1,
+            "dist_title": "Kanchanpur",
+            "province": {
+                "id": 7,
+                "lang_id": 1,
+                "title": "Sudurpashchim Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": null,
+        "lng": null,
+        "fullname": "Kosh Raj Joshi",
+        "url": "punarbash-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-punarbash-branch_1686812914.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 166,
+        "lang_id": 1,
+        "branch_title": "Putalisadak Branch",
+        "slug": "putalisadak-branch",
+        "address": "Putalisadak - 30, Kathmandu",
+        "ward_no": null,
+        "email": "paras.ojha@nmb.com.np",
+        "phone": "977-1-4539496 /497",
+        "mobile": "9851201639",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.702945041953985",
+        "lng": "85.32237442059048",
+        "fullname": "Paras Ojha",
+        "url": "putalisadak-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-putalisadak-branch_1686734628.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 286,
+        "lang_id": 1,
+        "branch_title": "Rambazar Branch",
+        "slug": "rambazar-branch",
+        "address": "Rambazar - 15, Pokhara",
+        "ward_no": null,
+        "email": "anil.buddhacharya@nmb.com.np",
+        "phone": "977-61-435350,  061-435348",
+        "mobile": "9856017927",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 45,
+            "lang_id": 1,
+            "dist_title": "Kaski",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.200805",
+        "lng": "83.997225",
+        "fullname": "Anil Ratna Buddhacharya",
+        "url": "rambazar-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/10/qr-code-3_1696997678.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 372,
+        "lang_id": 1,
+        "branch_title": "Ramgram Branch",
+        "slug": "ramgram-branch",
+        "address": "Ramgram",
+        "ward_no": null,
+        "email": "ramnaresh.gupta@nmb.com.np",
+        "phone": "977-78-590205/206",
+        "mobile": "9857081586",
+        "fax": null,
+        "province": {
+            "id": 5,
+            "lang_id": 1,
+            "title": "Lumbini Province"
+        },
+        "district": {
+            "id": 76,
+            "lang_id": 1,
+            "dist_title": "Parasi District",
+            "province": {
+                "id": 5,
+                "lang_id": 1,
+                "title": "Lumbini Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": null,
+        "lng": null,
+        "fullname": "Ramnaresh Gupta",
+        "url": "ramgram-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-ramgram-branch_1686814323.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 212,
+        "lang_id": 1,
+        "branch_title": "Sakhuwan Branch",
+        "slug": "sakhuwan-branch",
+        "address": "Sakhuwa- 01, Siraha",
+        "ward_no": null,
+        "email": "suraj.gupta@nmb.com.np",
+        "phone": null,
+        "mobile": "9801500505",
+        "fax": null,
+        "province": {
+            "id": 2,
+            "lang_id": 1,
+            "title": "Madhesh Province"
+        },
+        "district": {
+            "id": 26,
+            "lang_id": 1,
+            "dist_title": "Siraha",
+            "province": {
+                "id": 2,
+                "lang_id": 1,
+                "title": "Madhesh Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "26.38509",
+        "lng": "86.2838",
+        "fullname": "Suraj Kumar Gupta",
+        "url": "sakhuwan-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-sakhuwan-branch_1686802417.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 168,
+        "lang_id": 1,
+        "branch_title": "Salleri Branch",
+        "slug": "salleri-branch",
+        "address": "Salleri Bazaar",
+        "ward_no": null,
+        "email": "bimal.rai@nmb.com.np",
+        "phone": "977- 38-520457",
+        "mobile": "9841011980",
+        "fax": null,
+        "province": {
+            "id": 1,
+            "lang_id": 1,
+            "title": "Koshi Province"
+        },
+        "district": {
+            "id": 27,
+            "lang_id": 1,
+            "dist_title": "Solukhumbu",
+            "province": {
+                "id": 1,
+                "lang_id": 1,
+                "title": "Koshi Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.5011",
+        "lng": "86.5869",
+        "fullname": "Bimal Rai",
+        "url": "salleri-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-salleri-branch_1686734859.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 206,
+        "lang_id": 1,
+        "branch_title": "Sardi Bagaicha Branch",
+        "slug": "sardi-bagaicha-branch",
+        "address": "Binay Triveni Gaunpalika, Sardi Bagaicha",
+        "ward_no": null,
+        "email": "pradip.khanal@nmb.com.np",
+        "phone": "977-78-505093/94",
+        "mobile": "9845219601",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 59,
+            "lang_id": 1,
+            "dist_title": "Nawalpur",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.661872",
+        "lng": "83.84848445",
+        "fullname": "Pradip Khanal",
+        "url": "sardi-bagaicha-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-sardi-bagaicha-branch_1686802265.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 238,
+        "lang_id": 1,
+        "branch_title": "Satdobato Branch",
+        "slug": "satdobato-branch",
+        "address": "Satdobato - 15, Lalitpur",
+        "ward_no": null,
+        "email": null,
+        "phone": "977-1-5434758/9",
+        "mobile": null,
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 14,
+            "lang_id": 1,
+            "dist_title": "Lalitpur",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.657988",
+        "lng": "85.325123",
+        "fullname": null,
+        "url": "satdobato-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2024/09/qr-code-17_1727256383.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 274,
+        "lang_id": 1,
+        "branch_title": "Shisuwa Branch",
+        "slug": "shisuwa-branch",
+        "address": "Shishuwa, Lekhnath - 30",
+        "ward_no": null,
+        "email": "nisha.shrestha1@nmb.com.np",
+        "phone": "977-61-564795/802",
+        "mobile": "9851132140",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 45,
+            "lang_id": 1,
+            "dist_title": "Kaski",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.1637",
+        "lng": "84.068802",
+        "fullname": "Nisha Shrestha",
+        "url": "shisuwa-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-shisuwa-branch_1686803915.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 390,
+        "lang_id": 1,
+        "branch_title": "Siraha Branch",
+        "slug": "siraha-branch",
+        "address": "Mahabir Chowk, Siraha",
+        "ward_no": null,
+        "email": "krishna.thakur@nmb.com.np",
+        "phone": "977-33-521209",
+        "mobile": "9844004571",
+        "fax": null,
+        "province": {
+            "id": 2,
+            "lang_id": 1,
+            "title": "Madhesh Province"
+        },
+        "district": {
+            "id": 26,
+            "lang_id": 1,
+            "dist_title": "Siraha",
+            "province": {
+                "id": 2,
+                "lang_id": 1,
+                "title": "Madhesh Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "26.655242",
+        "lng": "86.207837",
+        "fullname": "Krishna Kant Thakur",
+        "url": "siraha-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-siraha-branch_1686816816.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 170,
+        "lang_id": 1,
+        "branch_title": "Sitapaila Branch",
+        "slug": "sitapaila-branch",
+        "address": "Sitapaila Chowk - 4, Kathmandu",
+        "ward_no": null,
+        "email": "ramkrishna.sharma@nmb.com.np",
+        "phone": "977-1-5383472, 5674331, 5382827, 5388832, 5379567, 5379601",
+        "mobile": "9851247829",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.707651",
+        "lng": "85.281858",
+        "fullname": "Ram Krishna Sharma",
+        "url": "sitapaila-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-sitapaila-branch_1686734898.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 224,
+        "lang_id": 1,
+        "branch_title": "Sonama Branch",
+        "slug": "sonama-branch",
+        "address": "Sonama- 1, Mahottari",
+        "ward_no": null,
+        "email": "vijay.yadav@nmb.com.np",
+        "phone": "977-9804828285",
+        "mobile": "9804828285",
+        "fax": null,
+        "province": {
+            "id": 2,
+            "lang_id": 1,
+            "title": "Madhesh Province"
+        },
+        "district": {
+            "id": 52,
+            "lang_id": 1,
+            "dist_title": "Mahottari",
+            "province": {
+                "id": 2,
+                "lang_id": 1,
+                "title": "Madhesh Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "26.855202",
+        "lng": "85.740239",
+        "fullname": "Vijay Kumar Yadav",
+        "url": "sonama-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-sonama-branch_1686802685.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 342,
+        "lang_id": 1,
+        "branch_title": "Sukhad Branch",
+        "slug": "sukhad-branch",
+        "address": "Ghodaghodi Municipality -01, Sukhad Bazar, 31",
+        "ward_no": null,
+        "email": "ramesh.bhat@nmb.com.np",
+        "phone": "977-91-403249",
+        "mobile": "9848501859",
+        "fax": null,
+        "province": {
+            "id": 7,
+            "lang_id": 1,
+            "title": "Sudurpashchim Province"
+        },
+        "district": {
+            "id": 66,
+            "lang_id": 1,
+            "dist_title": "Kailali",
+            "province": {
+                "id": 7,
+                "lang_id": 1,
+                "title": "Sudurpashchim Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": null,
+        "lng": null,
+        "fullname": "Ramesh Prasad Bhat",
+        "url": "sukhad-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-sukhad-branch_1686813259.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 172,
+        "lang_id": 1,
+        "branch_title": "Sunawal Branch",
+        "slug": "sunawal-branch",
+        "address": "Sunawal",
+        "ward_no": null,
+        "email": "arjun.gyawali@nmb.com.np",
+        "phone": "078-570462 / 078-570456",
+        "mobile": "9857030331",
+        "fax": null,
+        "province": {
+            "id": 5,
+            "lang_id": 1,
+            "title": "Lumbini Province"
+        },
+        "district": {
+            "id": 76,
+            "lang_id": 1,
+            "dist_title": "Parasi District",
+            "province": {
+                "id": 5,
+                "lang_id": 1,
+                "title": "Lumbini Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.605549",
+        "lng": "83.6408395",
+        "fullname": "Arjun Gyawali",
+        "url": "sunawal-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2024/04/sunawal-branch_1714373607.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 174,
+        "lang_id": 1,
+        "branch_title": "Surkhet Branch",
+        "slug": "surkhet-branch",
+        "address": "Jumla Road-6, Birendranagar",
+        "ward_no": null,
+        "email": "madan.kc@nmb.com.np",
+        "phone": "977-83-525260/61",
+        "mobile": "9858051160",
+        "fax": null,
+        "province": {
+            "id": 6,
+            "lang_id": 1,
+            "title": "Karnali Province"
+        },
+        "district": {
+            "id": 63,
+            "lang_id": 1,
+            "dist_title": "Surkhet",
+            "province": {
+                "id": 6,
+                "lang_id": 1,
+                "title": "Karnali Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.590973",
+        "lng": "81.599318",
+        "fullname": "Madan K.C.",
+        "url": "surkhet-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-surkhet-branch_1686734939.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 176,
+        "lang_id": 1,
+        "branch_title": "Suryabinayak Branch",
+        "slug": "suryabinayak-branch",
+        "address": "Suryabinayak - 4, Bhaktapur",
+        "ward_no": null,
+        "email": "anil.shrestha@nmb.com.np",
+        "phone": "977-1-5090132, 5090133",
+        "mobile": "9851156438",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 10,
+            "lang_id": 1,
+            "dist_title": "Bhaktapur",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.665453",
+        "lng": "85.424631",
+        "fullname": "Anil Shrestha",
+        "url": "suryabinayak-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-suryabinayak-branch_1686734964.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 178,
+        "lang_id": 1,
+        "branch_title": "Tandi Branch",
+        "slug": "tandi-branch",
+        "address": "Tandi - 10, Chitwan",
+        "ward_no": null,
+        "email": "santosh.sharma@nmb.com.np",
+        "phone": "977-56-562220/21",
+        "mobile": "9855080130",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 36,
+            "lang_id": 1,
+            "dist_title": "Chitwan",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.694937",
+        "lng": "84.524399",
+        "fullname": "Santosh Sharma",
+        "url": "tandi-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-tandi-branch_1686734995.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 180,
+        "lang_id": 1,
+        "branch_title": "Tansen Branch",
+        "slug": "tansen-branch",
+        "address": "Makhan Tole - 6, Palpa",
+        "ward_no": null,
+        "email": "sushil.aryal@nmb.com.np",
+        "phone": "977-75-520974/975",
+        "mobile": "9857060399",
+        "fax": null,
+        "province": {
+            "id": 5,
+            "lang_id": 1,
+            "title": "Lumbini Province"
+        },
+        "district": {
+            "id": 60,
+            "lang_id": 1,
+            "dist_title": "Palpa",
+            "province": {
+                "id": 5,
+                "lang_id": 1,
+                "title": "Lumbini Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.866225",
+        "lng": "83.543082",
+        "fullname": "Sushil Aryal",
+        "url": "tansen-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-tansen-branch_1686735026.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 182,
+        "lang_id": 1,
+        "branch_title": "Taukhel Branch",
+        "slug": "taukhel-branch",
+        "address": "Taukhel, Godawari - 3, Lalitpur",
+        "ward_no": null,
+        "email": "bikram.thapa@nmb.com.np",
+        "phone": "977-1-5560690, 5560691",
+        "mobile": "9851205062",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 14,
+            "lang_id": 1,
+            "dist_title": "Lalitpur",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.614326",
+        "lng": "85.341139",
+        "fullname": "Bikram Thapa",
+        "url": "taukhel-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-taukhel-branch_1686735053.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 184,
+        "lang_id": 1,
+        "branch_title": "Tehrathum Branch",
+        "slug": "tehrathum-branch",
+        "address": "Myanglung - 3, Tehrathum",
+        "ward_no": null,
+        "email": "santosh.khanal@nmb.com.np",
+        "phone": "977-26-460320",
+        "mobile": "9842660130",
+        "fax": null,
+        "province": {
+            "id": 1,
+            "lang_id": 1,
+            "title": "Koshi Province"
+        },
+        "district": {
+            "id": 28,
+            "lang_id": 1,
+            "dist_title": "Tehrathum",
+            "province": {
+                "id": 1,
+                "lang_id": 1,
+                "title": "Koshi Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.122224",
+        "lng": "87.601341",
+        "fullname": "Santosh Khanal",
+        "url": "tehrathum-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-tehrathum-branch_1686735082.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 186,
+        "lang_id": 1,
+        "branch_title": "Thamel Branch",
+        "slug": "thamel-branch",
+        "address": "Thamel - 29, Kathmandu",
+        "ward_no": null,
+        "email": "santosh.thapa@nmb.com.np",
+        "phone": "977-1-4527890/91",
+        "mobile": "9851120589",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.715259",
+        "lng": "85.310246",
+        "fullname": "Santosh Thapa",
+        "url": "thamel-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-thamel-branch_1686735110.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 188,
+        "lang_id": 1,
+        "branch_title": "Thankot Branch",
+        "slug": "thankot-branch",
+        "address": "Thankot - 3, Kathmandu",
+        "ward_no": null,
+        "email": "santosh.gyawali@nmb.com.np",
+        "phone": "977-1-4312622/23",
+        "mobile": "9851080930",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 12,
+            "lang_id": 1,
+            "dist_title": "Kathmandu",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.689514",
+        "lng": "85.246374",
+        "fullname": "Santosh Gyawali",
+        "url": "thankot-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-thankot-branch_1686735140.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 190,
+        "lang_id": 1,
+        "branch_title": "Tikapur Branch",
+        "slug": "tikapur-branch",
+        "address": "Tikapur - 1, Kailali",
+        "ward_no": null,
+        "email": "narayan.ghimire@nmb.com.np",
+        "phone": "977-91-560707/708",
+        "mobile": "9858420249",
+        "fax": null,
+        "province": {
+            "id": 7,
+            "lang_id": 1,
+            "title": "Sudurpashchim Province"
+        },
+        "district": {
+            "id": 66,
+            "lang_id": 1,
+            "dist_title": "Kailali",
+            "province": {
+                "id": 7,
+                "lang_id": 1,
+                "title": "Sudurpashchim Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.528134",
+        "lng": "81.121747",
+        "fullname": "Narayan Ghimire",
+        "url": "tikapur-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-tikapur-branch_1686735170.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 192,
+        "lang_id": 1,
+        "branch_title": "Tindobato Branch",
+        "slug": "tindobato-branch",
+        "address": "Tindobato - 5, Kavrepalanchok",
+        "ward_no": null,
+        "email": "shyam.thapa@nmb.com.np",
+        "phone": "977-11-660771",
+        "mobile": "9841313864",
+        "fax": null,
+        "province": {
+            "id": 3,
+            "lang_id": 1,
+            "title": "Bagmati Province"
+        },
+        "district": {
+            "id": 13,
+            "lang_id": 1,
+            "dist_title": "Kavrepalanchok",
+            "province": {
+                "id": 3,
+                "lang_id": 1,
+                "title": "Bagmati Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.631694",
+        "lng": "85.515636",
+        "fullname": "Shyam Thapa",
+        "url": "tindobato-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-tindobato-branch_1686735200.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 194,
+        "lang_id": 1,
+        "branch_title": "Tulsipur Branch",
+        "slug": "tulsipur-branch",
+        "address": "Tulsipur - 5, Dang",
+        "ward_no": null,
+        "email": "bishal.thapa@nmb.com.np",
+        "phone": "977-82-520802/803",
+        "mobile": "9857821180",
+        "fax": null,
+        "province": {
+            "id": 5,
+            "lang_id": 1,
+            "title": "Lumbini Province"
+        },
+        "district": {
+            "id": 64,
+            "lang_id": 1,
+            "dist_title": "Dang",
+            "province": {
+                "id": 5,
+                "lang_id": 1,
+                "title": "Lumbini Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "28.130947",
+        "lng": "82.295597",
+        "fullname": "Bishal Thapa",
+        "url": "tulsipur-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-tulsipur-branch_1686735230.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 196,
+        "lang_id": 1,
+        "branch_title": "Urlabari Branch",
+        "slug": "urlabari-branch",
+        "address": "Urlabari - 3, Morang",
+        "ward_no": null,
+        "email": "santosh.dahal@nmb.com.np",
+        "phone": "977-21-541686",
+        "mobile": "9842027692",
+        "fax": null,
+        "province": {
+            "id": 1,
+            "lang_id": 1,
+            "title": "Koshi Province"
+        },
+        "district": {
+            "id": 31,
+            "lang_id": 1,
+            "dist_title": "Morang",
+            "province": {
+                "id": 1,
+                "lang_id": 1,
+                "title": "Koshi Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "26.663058",
+        "lng": "87.627354",
+        "fullname": "Santosh Dahal",
+        "url": "urlabari-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-urlabari-branch_1686735260.png",
+        "created_date": "Apr 28, 2023"
+    },
+    {
+        "id": 198,
+        "lang_id": 1,
+        "branch_title": "Waling Branch",
+        "slug": "waling-branch",
+        "address": "Waling - 8, Syangja",
+        "ward_no": null,
+        "email": "santosh.shrestha@nmb.com.np",
+        "phone": "977-63-440246/47",
+        "mobile": "9856031173",
+        "fax": null,
+        "province": {
+            "id": 4,
+            "lang_id": 1,
+            "title": "Gandaki Province"
+        },
+        "district": {
+            "id": 48,
+            "lang_id": 1,
+            "dist_title": "Syangja",
+            "province": {
+                "id": 4,
+                "lang_id": 1,
+                "title": "Gandaki Province"
+            }
+        },
+        "inside_valley": "inside",
+        "map_url": null,
+        "lat": "27.983797",
+        "lng": "83.759517",
+        "fullname": "Santosh Shrestha",
+        "url": "waling-branch",
+        "qr_code": "https://backend.nmb.com.np/storage/network-points/2023/06/-waling-branch_1686735290.png",
+        "created_date": "Apr 28, 2023"
+    }
+    ]
